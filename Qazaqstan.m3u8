@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+
+#EXTINF:0 tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+
+#EXTINF:0 tvg-id="kazakhstan" tvg-name="Qazaqstan International" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
+
+#EXTINF:0 tvg-id="astana" tvg-name="Astana" tvg-logo="https://iptvxcdn.ml/astana.png",Astana
+https://astanatv-stream.daitsuna.net/astanatv/astanatv/astanatv/astanatv_720/chunks.m3u8
+
+#EXTINF:0 tvg-id="xabar" tvg-name="Хабар" tvg-logo="https://iptvxcdn.ml/xabar.png",Хабар
+https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/chunklist.m3u8
+
+#EXTINF:0 tvg-id="xabar24" tvg-name="Хабар 24" tvg-logo="https://iptvxcdn.ml/xabar24.png",Хабар 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvxcdn.ml/balapan.png",Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
+
+#EXTINF:0 tvg-id="el-arna" tvg-name="El Arna" tvg-logo="https://iptvxcdn.ml/el-arna.png",El Arna
+https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
+
+#EXTINF:0 tvg-id="kazsport" tvg-name="QazSport" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
+
+#EXTINF:0 tvg-id="kazsport" tvg-name="QazSport 2" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport 2
+https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
+
+#EXTINF:0 tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png",Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+
+#EXTINF:0 tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvxcdn.ml/mir.png",Мир
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+
+#EXTINF:0 tvg-id="sedmoi-kanal" tvg-name="Седьмой канал" tvg-logo="http://epg.it999.ru/img2/2572.png",Седьмой канал
+https://stream.tv7.kz/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="almaty" tvg-name="Almaty TV" tvg-logo="https://iptvxcdn.ml/almaty.png",Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-id="muzzone" tvg-name="MuzZone" tvg-logo="https://iptvxcdn.ml/muzzone.png",MuzZone
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+
+#EXTINF:0 tvg-id="kazakh-tv" tvg-name="Qazaq TV" tvg-logo="https://iptvxcdn.ml/kazakh-tv.png",Qazaq TV
+https://ikomg3.s.llnwi.net/test123/master.m3u8
+
+#EXTINF:0 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://iptvxcdn.ml/mir24.png",Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
+
+#EXTINF:0 tvg-id="atameken-business" tvg-name="Atameken Business Channel" tvg-logo="https://iptvxcdn.ml/atameken-business.png",Atameken Business Channel
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/chunklist_b1628000.m3u8
+
+#EXTINF:0 tvg-id="31-kanal-kz" tvg-name="31 канал" tvg-logo="https://iptvxcdn.ml/31-kanal-kz.png",31 канал
+https://hlsd-31kz.cdnvideo.ru/hls/relay/adaptive/31channel/NCftMHr/index.m3u8
+
+#EXTINF:0 tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvxcdn.ml/abaitv.png",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
+
+#EXTINF:0 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="https://iptvxcdn.ml/ktk-kz.png",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w1828400803_b3064000_slrus.m3u8
