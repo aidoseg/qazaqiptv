@@ -1,3 +1,12 @@
-# Public Qazaqstan's TV Channels m3u8 playlist
+# Qazaqstan TV channels public m3u8 playlist
 
-All links to streams taken from channels official sites. Playlist prepared to work with EPG from https://iptvx.one/EPG_LITE
+Это плейлист с трансляцией прямого эфира общедоступных казахстанских телеканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все видеопотоки берутся напрямую с официальных сайтов каналов и доступны для просмотра с территории Казахстана
+
+Прямая ссылка на плейлист:
+https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true
+
+Сокращенная ссылка на плейлист:
+https://bit.ly/qazaqiptv
+
+Для подключения программы пропишите в качестве источника EPG эту ссылку: 
+https://iptvx.one/EPG_LITE
