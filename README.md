@@ -10,3 +10,5 @@ https://bit.ly/qazaqiptv
 
 Для подключения программы пропишите в качестве источника EPG эту ссылку: 
 https://iptvx.one/EPG_LITE
+
+Для обратной связи пишите мне в [телегу](https://t.me/aidoseg)
