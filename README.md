@@ -8,7 +8,7 @@ https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true
 Сокращенная ссылка на плейлист:
 https://bit.ly/qazaqiptv
 
-Для подключения программы пропишите в качестве источника EPG эту ссылку: 
+Если программа не загрузилась, то пропишите в качестве источника EPG эту ссылку: 
 https://iptvx.one/EPG_LITE
 
 Для обратной связи пишите мне в [телегу](https://t.me/aidoseg)
