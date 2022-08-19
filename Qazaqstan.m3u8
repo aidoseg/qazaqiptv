@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U x-tvg-url="https://iptvx.one/EPG_LITE"
 
 #EXTINF:0 tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
