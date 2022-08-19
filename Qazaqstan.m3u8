@@ -111,8 +111,5 @@ https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
 #EXTINF:0 group-title="Radio" tvg-id="astana-fm" tvg-name="Astana Radiosy" tvg-logo="https://cdn.qazaqstan.tv/astanafm.png",Astana Radiosy
 https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 
-#EXTINF:0 group-title="Radio" tvg-id="astana-fm" tvg-name="Astana Radiosy" tvg-logo="https://cdn.qazaqstan.tv/astanafm.png",Astana Radiosy
-https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
-
 #EXTINF:0 group-title="Radio" tvg-id="classic-fm" tvg-name="Radio Classic" tvg-logo="https://cdn.qazaqstan.tv/classicfm.png",Radio Classic
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
