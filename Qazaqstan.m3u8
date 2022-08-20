@@ -21,12 +21,6 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
 #EXTINF:0 group-title="National" tvg-id="el-arna" tvg-name="El Arna" tvg-logo="https://iptvxcdn.ml/el-arna.png",El Arna
 https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-name="QazSport" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-name="QazSport 2" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport 2
-https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
-
 #EXTINF:0 group-title="National" tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png",Первый канал Евразия
 https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
 
@@ -39,8 +33,6 @@ https://stream.tv7.kz/hls/stream.m3u8
 #EXTINF:0 group-title="National" tvg-id="almaty" tvg-name="Almaty TV" tvg-logo="https://iptvxcdn.ml/almaty.png",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 
-#EXTINF:0 group-title="Music" tvg-id="muzzone" tvg-name="MuzZone" tvg-logo="https://iptvxcdn.ml/muzzone.png",MuzZone
-https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-name="Qazaq TV" tvg-logo="https://iptvxcdn.ml/kazakh-tv.png",Qazaq TV
 https://ikomg3.s.llnwi.net/test123/master.m3u8
@@ -62,6 +54,21 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w1828400803_b3064000_s
 
 #EXTINF:0 group-title="National" tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-logo="https://iptvxcdn.ml/novoe-televidenie.png",Новое телевидение
 https://edge04.beetv.kz/btv/SWM/New_TV/New_TV_1080p_5000kbps.m3u8
+
+#EXTINF:0 group-title="National" tvg-id="ntk-kz" tvg-name="НТК" tvg-logo="https://iptvxcdn.ml/ntk-kz.png",НТК
+https://live1-ntkkz.cdnvideo.ru/ntkkz-live/_definst_/smil:ntk-live.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-name="QazSport" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-name="QazSport 2" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport 2
+https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-name="QazSport 3" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport 3
+https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/qazsporttv3/qazsporttv3_720/chunks.m3u8
+
+#EXTINF:0 group-title="Music" tvg-id="muzzone" tvg-name="MuzZone" tvg-logo="https://iptvxcdn.ml/muzzone.png",MuzZone
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="altai" tvg-name="Altai" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
@@ -104,6 +111,9 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="semei" tvg-name="Semei" tvg-logo="https://iptvxcdn.ml/semei.png",Semei 
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:0 group-title="Regions" tvg-id="mtrk-petropavl" tvg-name="МТРК Петропавл",МТРК Петропавл
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Radio" tvg-id="qazaq-fm" tvg-name="Qazaq Radiosy" tvg-logo="https://cdn.qazaqstan.tv/qazfm.png",Qazaq Radiosy
 https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
