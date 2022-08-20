@@ -1,4 +1,4 @@
-# Qazaqstan TV/Radio channels public m3u8 playlist
+# Qazaqstan tv/radio channels public m3u8 playlist
 
 ![qziptv640](https://user-images.githubusercontent.com/53621996/185730293-a6ebf821-328d-4bc2-ad46-a6249cd93cd3.png)
 Это плейлист с трансляцией прямого эфира общедоступных казахстанских теле- и радиоканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все видеопотоки берутся напрямую с официальных сайтов и доступны для просмотра с территории Казахстана
