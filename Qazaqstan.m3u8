@@ -55,9 +55,6 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w1828400803_b3064000_s
 #EXTINF:0 group-title="National" tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-logo="https://iptvxcdn.ml/novoe-televidenie.png",Новое телевидение
 https://edge04.beetv.kz/btv/SWM/New_TV/New_TV_1080p_5000kbps.m3u8
 
-#EXTINF:0 group-title="National" tvg-id="ntk-kz" tvg-name="НТК" tvg-logo="https://iptvxcdn.ml/ntk-kz.png",НТК
-https://live1-ntkkz.cdnvideo.ru/ntkkz-live/_definst_/smil:ntk-live.smil/playlist.m3u8
-
 #EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-name="QazSport" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
 
