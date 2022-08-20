@@ -140,3 +140,12 @@ https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
 
 #EXTINF:0 group-title="Radio" tvg-id="energy-fm" tvg-name="Energy FM" tvg-logo="https://user-images.githubusercontent.com/53621996/185737671-7aa0e3d0-1bde-4b2b-a46c-ebda30237279.png",Energy FM
 http://89.219.34.117:8008/NEWENERGY_256k
+
+#EXTINF:0 group-title="Radio" tvg-id="tengri-fm" tvg-name="Tengri FM" tvg-logo="http://player.tengrifm.kz/images/player/logo.png",Tengri FM
+http://91.201.214.229:8000/tengrifm
+
+#EXTINF:0 group-title="Radio" tvg-id="radio-ns-fm" tvg-name="Радио N-S" tvg-logo="http://www.ns.kz/uploads/logo_9may.png",Радио N-S
+https://icecast.ns.kz/radions
+
+#EXTINF:0 group-title="Radio" tvg-id="zhuldyz-fm" tvg-name="Жұлдыз FM" tvg-logo="https://user-images.githubusercontent.com/53621996/185737671-7aa0e3d0-1bde-4b2b-a46c-ebda30237279.png",Жұлдыз FM
+http://91.201.214.229:8000/zhulduz
