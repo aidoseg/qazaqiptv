@@ -113,3 +113,12 @@ https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 
 #EXTINF:0 group-title="Radio" tvg-id="classic-fm" tvg-name="Radio Classic" tvg-logo="https://cdn.qazaqstan.tv/classicfm.png",Radio Classic
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+
+#EXTINF:0 group-title="Radio" tvg-id="love-radio-fm" tvg-name="Love Radio",Love Radio
+https://stream.gakku.tv:8443/love128.mp3
+
+#EXTINF:0 group-title="Radio" tvg-id="radio-dacha-fm" tvg-name="Радио Дача",Радио Дача
+https://stream.gakku.tv:8443/dacha
+
+#EXTINF:0 group-title="Radio" tvg-id="toi-duman-fm" tvg-name="Той Думан" tvg-logo="https://iptvxcdn.ml/toy-duman.png",Той Думан
+https://stream.gakku.tv:8443/live.mp3
