@@ -60,6 +60,9 @@ https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
 #EXTINF:0 group-title="National" tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="https://iptvxcdn.ml/ktk-kz.png",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w1828400803_b3064000_slrus.m3u8
 
+#EXTINF:0 group-title="National" tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-logo="https://iptvxcdn.ml/novoe-televidenie.png",Новое телевидение
+https://edge04.beetv.kz/btv/SWM/New_TV/New_TV_1080p_5000kbps.m3u8
+
 #EXTINF:0 group-title="Regions" tvg-id="altai" tvg-name="Altai" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 
@@ -114,11 +117,17 @@ https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:0 group-title="Radio" tvg-id="classic-fm" tvg-name="Radio Classic" tvg-logo="https://cdn.qazaqstan.tv/classicfm.png",Radio Classic
 https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
 
+#EXTINF:0 group-title="Radio" tvg-id="znana-fm" tvg-name="Жаңа FM" tvg-logo="https://zhanafm.kz/uploads/files/zhana-fm.png",Жаңа FM
+https://live.zhanafm.kz:8443/zhanafm_onair
+
 #EXTINF:0 group-title="Radio" tvg-id="love-radio-fm" tvg-name="Love Radio",Love Radio
 https://stream.gakku.tv:8443/love128.mp3
 
 #EXTINF:0 group-title="Radio" tvg-id="radio-dacha-fm" tvg-name="Радио Дача",Радио Дача
 https://stream.gakku.tv:8443/dacha
 
-#EXTINF:0 group-title="Radio" tvg-id="toi-duman-fm" tvg-name="Той Думан" tvg-logo="https://iptvxcdn.ml/toy-duman.png",Той Думан
+#EXTINF:0 group-title="Radio" tvg-id="toi-duman-fm" tvg-name="Той Думан",Той Думан
 https://stream.gakku.tv:8443/live.mp3
+
+#EXTINF:0 group-title="Radio" tvg-id="europe-plus-almaty-fm" tvg-name="Europa Plus" tvg-logo="https://iptvxcdn.ml/europa-plus-radio.png",Europa Plus
+https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
