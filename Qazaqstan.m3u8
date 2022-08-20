@@ -138,3 +138,6 @@ https://stream.gakku.tv:8443/live.mp3
 
 #EXTINF:0 group-title="Radio" tvg-id="europe-plus-almaty-fm" tvg-name="Europa Plus" tvg-logo="https://iptvxcdn.ml/europa-plus-radio.png",Europa Plus
 https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
+
+#EXTINF:0 group-title="Radio" tvg-id="energy-fm" tvg-name="Energy FM",Energy FM
+http://89.219.34.117:8008/NEWENERGY_256k
