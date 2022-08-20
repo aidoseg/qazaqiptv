@@ -33,7 +33,6 @@ https://stream.tv7.kz/hls/stream.m3u8
 #EXTINF:0 group-title="National" tvg-id="almaty" tvg-name="Almaty TV" tvg-logo="https://iptvxcdn.ml/almaty.png",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 
-
 #EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-name="Qazaq TV" tvg-logo="https://iptvxcdn.ml/kazakh-tv.png",Qazaq TV
 https://ikomg3.s.llnwi.net/test123/master.m3u8
 
@@ -109,7 +108,7 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:0 group-title="Regions" tvg-id="semei" tvg-name="Semei" tvg-logo="https://iptvxcdn.ml/semei.png",Semei 
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 
-#EXTINF:0 group-title="Regions" tvg-id="mtrk-petropavl" tvg-name="МТРК Петропавл",МТРК Петропавл
+#EXTINF:0 group-title="Regions" tvg-id="mtrk-petropavl" tvg-name="МТРК Петропавл" tvg-logo="https://user-images.githubusercontent.com/53621996/185737584-e6935ce3-6fd7-4c61-bcf2-411f92cab9eb.png",МТРК Петропавл
 https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Radio" tvg-id="qazaq-fm" tvg-name="Qazaq Radiosy" tvg-logo="https://cdn.qazaqstan.tv/qazfm.png",Qazaq Radiosy
@@ -127,17 +126,17 @@ https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
 #EXTINF:0 group-title="Radio" tvg-id="znana-fm" tvg-name="Жаңа FM" tvg-logo="https://zhanafm.kz/uploads/files/zhana-fm.png",Жаңа FM
 https://live.zhanafm.kz:8443/zhanafm_onair
 
-#EXTINF:0 group-title="Radio" tvg-id="love-radio-fm" tvg-name="Love Radio",Love Radio
+#EXTINF:0 group-title="Radio" tvg-id="love-radio-fm" tvg-name="Love Radio" tvg-logo="https://user-images.githubusercontent.com/53621996/185737671-7aa0e3d0-1bde-4b2b-a46c-ebda30237279.png",Love Radio
 https://stream.gakku.tv:8443/love128.mp3
 
-#EXTINF:0 group-title="Radio" tvg-id="radio-dacha-fm" tvg-name="Радио Дача",Радио Дача
+#EXTINF:0 group-title="Radio" tvg-id="radio-dacha-fm" tvg-name="Радио Дача" tvg-logo="https://user-images.githubusercontent.com/53621996/185737671-7aa0e3d0-1bde-4b2b-a46c-ebda30237279.png",Радио Дача
 https://stream.gakku.tv:8443/dacha
 
-#EXTINF:0 group-title="Radio" tvg-id="toi-duman-fm" tvg-name="Той Думан",Той Думан
+#EXTINF:0 group-title="Radio" tvg-id="toi-duman-fm" tvg-name="Той Думан" tvg-logo="https://user-images.githubusercontent.com/53621996/185737671-7aa0e3d0-1bde-4b2b-a46c-ebda30237279.png",Той Думан
 https://stream.gakku.tv:8443/live.mp3
 
 #EXTINF:0 group-title="Radio" tvg-id="europe-plus-almaty-fm" tvg-name="Europa Plus" tvg-logo="https://iptvxcdn.ml/europa-plus-radio.png",Europa Plus
 https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
 
-#EXTINF:0 group-title="Radio" tvg-id="energy-fm" tvg-name="Energy FM",Energy FM
+#EXTINF:0 group-title="Radio" tvg-id="energy-fm" tvg-name="Energy FM" tvg-logo="https://user-images.githubusercontent.com/53621996/185737671-7aa0e3d0-1bde-4b2b-a46c-ebda30237279.png",Energy FM
 http://89.219.34.117:8008/NEWENERGY_256k
