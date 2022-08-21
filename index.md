@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Qazaqstan tv/radio channels public m3u8 playlist
 
-You can use the [editor on GitHub](https://github.com/aidoseg/qazaqstan-tv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![qziptv640](https://user-images.githubusercontent.com/53621996/185730293-a6ebf821-328d-4bc2-ad46-a6249cd93cd3.png)
+Это плейлист с трансляцией прямого эфира общедоступных казахстанских теле- и радиоканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все видеопотоки берутся напрямую с официальных сайтов и доступны для просмотра с территории Казахстана
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Прямая ссылка на плейлист:
+https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true
 
-### Markdown
+Сокращенная ссылка на плейлист:
+https://bit.ly/qazaqiptv
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Если программа не загрузилась, то пропишите в качестве источника EPG эту ссылку: 
+https://iptvx.one/EPG_LITE
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidoseg/qazaqstan-tv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Для обратной связи пишите мне в [телегу](https://t.me/aidoseg)
