@@ -3,10 +3,10 @@
 Qazaq IPTV — это плейлист с трансляцией прямого эфира общедоступных казахстанских теле- и радиоканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все видеопотоки берутся напрямую с официальных сайтов и доступны для просмотра с территории Казахстана
 
 Прямая ссылка на плейлист:
-[https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true](https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true)
+[https://aidoseg.github.io/qazaqiptv/playlist.m3u8](https://aidoseg.github.io/qazaqiptv/playlist.m3u8)
 
 Сокращенная ссылка на плейлист:
-[https://bit.ly/qazaqiptv](https://bit.ly/qazaqiptv)
+[https://bit.ly/qazaq-iptv](https://bit.ly/qazaq-iptv)
 
 Если программа не загрузилась, то пропишите в качестве источника EPG эту ссылку: 
 [https://iptvx.one/EPG_LITE](https://iptvx.one/EPG_LITE)
