@@ -1,0 +1,151 @@
+#EXTM3U x-tvg-url="https://iptvx.one/EPG_LITE"
+
+#EXTINF:0 group-title="National" channel-id="1" tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+
+#EXTINF:0 group-title="National" channel-id="2" tvg-id="kazakhstan" tvg-name="Qazaqstan International" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
+
+#EXTINF:0 group-title="National" channel-id="3" tvg-id="xabar" tvg-name="Хабар" tvg-logo="https://iptvxcdn.ml/xabar.png",Хабар
+https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/chunklist.m3u8
+
+#EXTINF:0 group-title="National" channel-id="4" tvg-id="xabar24" tvg-name="Хабар 24" tvg-logo="https://iptvxcdn.ml/xabar24.png",Хабар 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="National" channel-id="5" tvg-id="el-arna" tvg-name="El Arna" tvg-logo="https://iptvxcdn.ml/el-arna.png",El Arna
+https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
+
+#EXTINF:0 group-title="National" channel-id="6" tvg-id="kazakh-tv" tvg-name="Qazaq TV" tvg-logo="https://iptvxcdn.ml/kazakh-tv.png",Qazaq TV
+https://ikomg3.s.llnwi.net/test123/master.m3u8
+
+#EXTINF:0 group-title="National" channel-id="7" tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvxcdn.ml/abaitv.png",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
+
+#EXTINF:0 group-title="National" channel-id="8" tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png",Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+
+#EXTINF:0 group-title="National" channel-id="9" tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="https://iptvxcdn.ml/ktk-kz.png",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_w1828400803_b3064000_slrus.m3u8
+
+#EXTINF:0 group-title="National" channel-id="10" tvg-id="7kanal-kz" tvg-name="7 канал" tvg-logo="https://iptvxcdn.ml/7kanal-kz.png",7 канал
+https://stream.tv7.kz/hls/stream.m3u8
+
+#EXTINF:0 group-title="National" channel-id="11" tvg-id="31-kanal-kz" tvg-name="31 канал" tvg-logo="https://iptvxcdn.ml/31-kanal-kz.png",31 канал
+https://hlsd-31kz.cdnvideo.ru/hls/relay/adaptive/31channel/NCftMHr/index.m3u8
+
+#EXTINF:0 group-title="National" channel-id="12" tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-logo="https://iptvxcdn.ml/novoe-televidenie.png",Новое телевидение
+https://edge04.beetv.kz/btv/SWM/New_TV/New_TV_1080p_5000kbps.m3u8
+
+#EXTINF:0 group-title="National" channel-id="13" tvg-id="astana" tvg-name="Astana" tvg-logo="https://iptvxcdn.ml/astana.png",Astana
+https://astanatv-stream.daitsuna.net/astanatv/astanatv/astanatv/astanatv_720/chunks.m3u8
+
+#EXTINF:0 group-title="National" channel-id="14" tvg-id="almaty" tvg-name="Almaty TV" tvg-logo="https://iptvxcdn.ml/almaty.png",Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="National" channel-id="15" tvg-id="mir" tvg-name="Мир" tvg-logo="https://iptvxcdn.ml/mir.png",Мир
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+
+#EXTINF:0 group-title="National" channel-id="16" tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://iptvxcdn.ml/mir24.png",Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
+
+#EXTINF:0 group-title="National" channel-id="17" tvg-id="atameken-business" tvg-name="Atameken Business Channel" tvg-logo="https://iptvxcdn.ml/atameken-business.png",Atameken Business Channel
+https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/chunklist_b1628000.m3u8
+
+#EXTINF:0 group-title="Sport" channel-id="18" tvg-id="kazsport" tvg-name="QazSport" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
+
+#EXTINF:0 group-title="Sport" channel-id="19" tvg-id="kazsport" tvg-name="QazSport 2" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport 2
+https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
+
+#EXTINF:0 group-title="Sport" channel-id="20" tvg-id="kazsport" tvg-name="QazSport 3" tvg-logo="https://iptvxcdn.ml/kazsport.png",QazSport 3
+https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/qazsporttv3/qazsporttv3_720/chunks.m3u8
+
+#EXTINF:0 group-title="Music" channel-id="21" tvg-id="muzzone" tvg-name="MuzZone" tvg-logo="https://iptvxcdn.ml/muzzone.png",MuzZone
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+
+#EXTINF:0 group-title="Kids" channel-id="22" tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvxcdn.ml/balapan.png",Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="23" tvg-id="altai" tvg-name="Altai" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Altai
+https://stream.kaztrk.kz/regional/oskementv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="24" tvg-id="aqjaiyq" tvg-name="Aqjaiyq" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Aqjaiyq 
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="25" tvg-id="aqtobe" tvg-name="Aqtobe" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Aqtobe 
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="26" tvg-id="atyray" tvg-name="Atyrau" tvg-logo="https://iptvxcdn.ml/atyray.png",Atyrau 
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="27" tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Ertis 
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="28" tvg-id="jambyl" tvg-name="Jambyl" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Jambyl 
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="29" tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Kokshe 
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="30" tvg-id="mangystau" tvg-name="Mangystau" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Mangystau 
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="31" tvg-id="ontustik" tvg-name="Ontustik" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Ontustik 
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="32" tvg-id="qostanai" tvg-name="Qostanai" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qostanai 
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="33" tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qyzyljar 
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="34" tvg-id="qyzylorda" tvg-name="Qyzylorda" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qyzylorda 
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="35" tvg-id="saryarqa" tvg-name="Saryarqa" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Saryarqa 
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="36" tvg-id="semei" tvg-name="Semei" tvg-logo="https://iptvxcdn.ml/semei.png",Semei 
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:0 group-title="Regions" channel-id="37" tvg-id="mtrk-petropavl" tvg-name="МТРК Петропавл",МТРК Петропавл
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Radio" channel-id="38" tvg-id="qazaq-fm" tvg-name="Qazaq Radiosy" tvg-logo="https://cdn.qazaqstan.tv/qazfm.png",Qazaq Radiosy
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+
+#EXTINF:0 group-title="Radio" channel-id="39" tvg-id="shalqar-fm" tvg-name="Shalqar Radiosy" tvg-logo="https://cdn.qazaqstan.tv/shalqarfm.png",Shalqar Radiosy
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+
+#EXTINF:0 group-title="Radio" channel-id="40" tvg-id="astana-fm" tvg-name="Astana Radiosy" tvg-logo="https://cdn.qazaqstan.tv/astanafm.png",Astana Radiosy
+https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
+
+#EXTINF:0 group-title="Radio" channel-id="41" tvg-id="classic-fm" tvg-name="Radio Classic" tvg-logo="https://cdn.qazaqstan.tv/classicfm.png",Radio Classic
+https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+
+#EXTINF:0 group-title="Radio" channel-id="42" tvg-id="znana-fm" tvg-name="Жаңа FM" tvg-logo="https://zhanafm.kz/uploads/files/zhana-fm.png",Жаңа FM
+https://live.zhanafm.kz:8443/zhanafm_onair
+
+#EXTINF:0 group-title="Radio" channel-id="43" tvg-id="love-radio-fm" tvg-name="Love Radio",Love Radio
+https://stream.gakku.tv:8443/love128.mp3
+
+#EXTINF:0 group-title="Radio" channel-id="44" tvg-id="radio-dacha-fm" tvg-name="Радио Дача",Радио Дача
+https://stream.gakku.tv:8443/dacha
+
+#EXTINF:0 group-title="Radio" channel-id="45" tvg-id="toi-duman-fm" tvg-name="Той Думан",Той Думан
+https://stream.gakku.tv:8443/live.mp3
+
+#EXTINF:0 group-title="Radio" channel-id="46" tvg-id="europe-plus-almaty-fm" tvg-name="Europa Plus" tvg-logo="https://iptvxcdn.ml/europa-plus-radio.png",Europa Plus
+https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
+
+#EXTINF:0 group-title="Radio" channel-id="47" tvg-id="energy-fm" tvg-name="Energy FM",Energy FM
+http://89.219.34.117:8008/NEWENERGY_256k
+
+#EXTINF:0 group-title="Radio" channel-id="48" tvg-id="tengri-fm" tvg-name="Tengri FM" tvg-logo="http://player.tengrifm.kz/images/player/logo.png",Tengri FM
+http://91.201.214.229:8000/tengrifm
+
+#EXTINF:0 group-title="Radio" channel-id="49" tvg-id="radio-ns-fm" tvg-name="Радио N-S" tvg-logo="http://www.ns.kz/uploads/logo_9may.png",Радио N-S
+https://icecast.ns.kz/radions
+
+#EXTINF:0 group-title="Radio" channel-id="50" tvg-id="zhuldyz-fm" tvg-name="Zhuldyz FM",Zhyldyz FM
+http://91.201.214.229:8000/zhulduz
