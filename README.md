@@ -1,4 +1,4 @@
-# Qazaq IPTV — Qazaqstan's tv/radio public m3u8 playlist
+# Qazaq IPTV — Qazaqstan's public tv/radio m3u8 playlist
 
 ![logo](https://aidoseg.github.io/qazaqiptv/assets/img/logo.png)
 
