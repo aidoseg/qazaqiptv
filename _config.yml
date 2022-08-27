@@ -4,3 +4,5 @@ description: [Qazaqstan tv/radio channels public m3u8 playlist]
 show_downloads: [true]
 github:
   zip_url: https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true
+  another_url: https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true
+  m3u8_url: https://github.com/aidoseg/qazaqstan-tv/blob/main/Qazaqstan.m3u8?raw=true
