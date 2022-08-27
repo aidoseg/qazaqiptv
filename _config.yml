@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Qazaq IPTV]
 description: [Qazaqstan tv/radio channels public m3u8 playlist]
+show_downloads: [true]
