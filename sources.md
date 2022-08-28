@@ -55,4 +55,6 @@ layout: default
 * Радио N-S: [http://www.ns.kz/kz/](http://www.ns.kz/kz/)
 * Zhuldyz FM: [http://www.zhuldyzfm.kz](http://www.zhuldyzfm.kz)
 
+**Логотип составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative)**
+
 [Назад](./)
