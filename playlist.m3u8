@@ -151,4 +151,4 @@ https://icecast.ns.kz/radions
 http://91.201.214.229:8000/zhulduz
 
 #EXTINF:0 group-title="Info" channel-id="51" tvg-id="qazaq-iptv" tvg-name="Qazaq IPTV Info" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaq-iptv.png",Qazaq IPTV Info
-https://aidoseg.github.io/qazaqiptv/h264.ts
+https://aidoseg.github.io/qazaqiptv/stream.ts
