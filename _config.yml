@@ -1,7 +1,8 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: [Qazaq IPTV]
 logo: /assets/img/logo.png
 description: [Qazaqstan's public tv/radio m3u8 playlist]
+google_analytics: [G-D57M2B5SRD]
 show_downloads: [true]
 github:
   m3u8_url: https://aidoseg.github.io/qazaqiptv/playlist.m3u8
