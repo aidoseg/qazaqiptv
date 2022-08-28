@@ -12,3 +12,5 @@
 [https://iptvx.one/EPG_LITE](https://iptvx.one/EPG_LITE)
 
 Для обратной связи пишите мне в [телегу](https://t.me/aidoseg)
+
+[Источники](./sources.html).
