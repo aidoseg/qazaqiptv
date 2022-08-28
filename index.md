@@ -43,4 +43,4 @@
 
 [Источники](./sources.html)
 
-Для обратной связи пишите мне на [почту](mailto:aidos.kapanov@gmail.com)
+Логотип составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative). Для обратной связи пишите мне на [почту](mailto:aidos.kapanov@gmail.com)
