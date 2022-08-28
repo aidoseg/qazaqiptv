@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Источники потоков плейлиста
+## Все ссылки взяты с официальных сайтов
 
 * Qazaqstan: [https://qazaqstan.tv/live](https://qazaqstan.tv/live)
 * Qazaqstan International: [https://qazaqstan.tv/live](https://qazaqstan.tv/live)
