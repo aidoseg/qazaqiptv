@@ -149,3 +149,6 @@ https://icecast.ns.kz/radions
 
 #EXTINF:0 group-title="Radio" channel-id="50" tvg-id="zhuldyz-fm" tvg-name="Zhuldyz FM" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/zhuldyz-fm.png",Zhyldyz FM
 http://91.201.214.229:8000/zhulduz
+
+#EXTINF:0 group-title="Info" channel-id="51" tvg-id="qazaq-iptv" tvg-name="Qazaq IPTV Info" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaq-iptv.png",Qazaq IPTV Info
+https://aidoseg.github.io/qazaqiptv/h264.ts
