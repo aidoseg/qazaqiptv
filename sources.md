@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+## Источники потоков плейлиста
+
 * Qazaqstan: https://qazaqstan.tv/live
 * Qazaqstan International: https://qazaqstan.tv/live
 * Хабар: https://khabar.kz/kk/ba-darlama/onlajn-k-rsetilim
@@ -48,3 +54,5 @@
 * Tengri FM: http://player.tengrifm.kz/player
 * Радио N-S: http://www.ns.kz/kz/
 * Zhuldyz FM: http://www.zhuldyzfm.kz
+
+[Назад](./)
