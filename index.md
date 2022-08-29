@@ -1,6 +1,6 @@
 ## Qazaqstan's public tv/radio m3u8 playlist
 
-![My IPTV Player](https://aidoseg.github.io/qazaqiptv/assets/img/myiptvplayer.png)
+![TiviMate IPTV Player](https://aidoseg.github.io/qazaqiptv/assets/img/tivimate.png)
 
 **Qazaq IPTV** — это плейлист с трансляцией прямого эфира общедоступных казахстанских теле- и радиоканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все потоки берутся напрямую с официальных сайтов и доступны с территории Казахстана
 
