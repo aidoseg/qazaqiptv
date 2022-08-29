@@ -207,3 +207,8 @@ https://icecast.ns.kz/radions
 #EXTINF:-1 channel-id="52" tvg-id="autoradio-kz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/autoradio.png" group-title="Radio" tvg-name="Авторадио KZ",Авторадио KZ
 #EXTGRP:Radio
 http://95.56.234.40:8080/AVTORADIO_AAC
+
+#EXTINF:-1 channel-id="53" tvg-id="lux-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/lux-fm.png" group-title="Radio" tvg-name="Lux FM",Lux FM
+#EXTGRP:Radio
+https://icecast.luxfm.kz/luxfm
+
