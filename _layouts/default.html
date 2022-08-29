@@ -29,7 +29,7 @@
 
         {% if site.show_downloads %}
         
-                <script>
+        <script>
         function copyText() {
       
             /* Copy text into clipboard */
@@ -39,12 +39,10 @@
       </script>
         <ul class="downloads">
           <li><a href="{{ site.github.m3u8_url }}">Download <strong>Playlist</strong></a></li>
-          <li><a href="{{ copyText() }}">Copy m3u8<strong>Link</a></li>
+          <li><a onhover="copyText()">Copy m3u8<strong>Link</a></li>
           <li><a href="https://t.me/aidoseg">Contact <strong>Me</strong></a></li>
         </ul>
-        
-
-        
+           
         {% endif %}
 
       </header>
