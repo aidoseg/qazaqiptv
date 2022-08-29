@@ -24,6 +24,7 @@ layout: default
 * QazSport: [https://qazsporttv.kz/kz/live](https://qazsporttv.kz/kz/live)
 * QazSport 2: [https://qazsporttv.kz/kz/live](https://qazsporttv.kz/kz/live)
 * QazSport 3: [https://qazsporttv.kz/kz/live](https://qazsporttv.kz/kz/live)
+* INSPORT: [https://insporttv.kz/](https://insporttv.kz/)
 * MuzZone: [https://muzzone.tv/](https://muzzone.tv/)
 * Balapan: [https://balapan.tv/live](https://balapan.tv/live)
 * Altai: [https://oskementv.kz/kz/online](https://oskementv.kz/kz/online)
@@ -54,6 +55,7 @@ layout: default
 * Tengri FM: [http://player.tengrifm.kz/player](http://player.tengrifm.kz/player)
 * Радио N-S: [http://www.ns.kz/kz/](http://www.ns.kz/kz/)
 * Zhuldyz FM: [http://www.zhuldyzfm.kz](http://www.zhuldyzfm.kz)
+* Авторадио KZ: [https://avtoradio.kz/](https://avtoradio.kz/)
 
 **Логотип составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative)**
 
