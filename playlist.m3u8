@@ -66,40 +66,40 @@ https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:0 group-title="Kids" channel-id="22" tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/balapan.png",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="23" tvg-id="altai" tvg-name="Altai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/altai.png",Altai
+#EXTINF:0 group-title="Regions" channel-id="23" tvg-id="altai" tvg-name="Altai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="24" tvg-id="aqjaiyq" tvg-name="Aqjaiyq" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/aqjaiyq.png",Aqjaiyq 
+#EXTINF:0 group-title="Regions" channel-id="24" tvg-id="aqjaiyq" tvg-name="Aqjaiyq" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Aqjaiyq 
 https://stream.kaztrk.kz/regional/oraltv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="25" tvg-id="aqtobe" tvg-name="Aqtobe" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/aqtobe.png",Aqtobe 
+#EXTINF:0 group-title="Regions" channel-id="25" tvg-id="aqtobe" tvg-name="Aqtobe" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Aqtobe 
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
 
 #EXTINF:0 group-title="Regions" channel-id="26" tvg-id="atyray" tvg-name="Atyrau" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/atyray.png",Atyrau 
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="27" tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/ertis.png",Ertis 
+#EXTINF:0 group-title="Regions" channel-id="27" tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Ertis 
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="28" tvg-id="jambyl" tvg-name="Jambyl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jambyl.png",Jambyl 
+#EXTINF:0 group-title="Regions" channel-id="28" tvg-id="jambyl" tvg-name="Jambyl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Jambyl 
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="29" tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kokshe.png",Kokshe 
+#EXTINF:0 group-title="Regions" channel-id="29" tvg-id="kokshe" tvg-name="Kokshe" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Kokshe 
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="30" tvg-id="mangystau" tvg-name="Mangystau" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mangystau.png",Mangystau 
+#EXTINF:0 group-title="Regions" channel-id="30" tvg-id="mangystau" tvg-name="Mangystau" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Mangystau 
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="31" tvg-id="ontustik" tvg-name="Ontustik" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/ontustik.png",Ontustik 
+#EXTINF:0 group-title="Regions" channel-id="31" tvg-id="ontustik" tvg-name="Ontustik" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Ontustik 
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="32" tvg-id="qostanai" tvg-name="Qostanai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qostanai.png",Qostanai 
+#EXTINF:0 group-title="Regions" channel-id="32" tvg-id="qostanai" tvg-name="Qostanai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Qostanai 
 https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="33" tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qyzyljar.png",Qyzyljar 
+#EXTINF:0 group-title="Regions" channel-id="33" tvg-id="qyzyljar" tvg-name="Qyzyljar" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Qyzyljar 
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
 
-#EXTINF:0 group-title="Regions" channel-id="34" tvg-id="qyzylorda" tvg-name="Qyzylorda" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qyzylorda.png",Qyzylorda 
+#EXTINF:0 group-title="Regions" channel-id="34" tvg-id="qyzylorda" tvg-name="Qyzylorda" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png",Qyzylorda 
 https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
 
 #EXTINF:0 group-title="Regions" channel-id="35" tvg-id="saryarqa" tvg-name="Saryarqa" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/saryarqa.png",Saryarqa 
@@ -149,3 +149,6 @@ https://icecast.ns.kz/radions
 
 #EXTINF:0 group-title="Radio" channel-id="50" tvg-id="zhuldyz-fm" tvg-name="Zhuldyz FM" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/zhuldyz-fm.png",Zhyldyz FM
 http://91.201.214.229:8000/zhulduz
+
+#EXTINF:0 group-title="Radio" channel-id="51" tvg-id="autoradio-kz-fm" tvg-name="Авторадио KZ" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/autoradio.png",Авторадио KZ
+http://95.56.234.40:8080/AVTORADIO_AAC
