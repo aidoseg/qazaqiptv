@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+p.right {
+  text-align: right;
+}
