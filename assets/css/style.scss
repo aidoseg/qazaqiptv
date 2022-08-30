@@ -3,11 +3,10 @@
 
 @import "{{ site.theme }}";
 
-
-a.header-left {
-  text-align: left;
+.header-left {
+  float:left;
 }
 
-a.header-right {
-  text-align: right;
+.header-right {
+  float: right;
 }
