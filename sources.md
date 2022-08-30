@@ -4,6 +4,7 @@ layout: default
 
 ## Все ссылки взяты с официальных сайтов
 
+**ТВ**
 * Qazaqstan: [https://qazaqstan.tv/live](https://qazaqstan.tv/live)
 * Qazaqstan International: [https://qazaqstan.tv/live](https://qazaqstan.tv/live)
 * Хабар: [https://khabar.kz/kk/ba-darlama/onlajn-k-rsetilim](https://khabar.kz/kk/ba-darlama/onlajn-k-rsetilim)
@@ -42,6 +43,8 @@ layout: default
 * Saryarqa: [https://kartv.kz/kz/online](https://kartv.kz/kz/online)
 * Semei: [https://semeytv.kz/kz/online](https://semeytv.kz/kz/online)
 * МТРК Петропавл: [https://mtrk.kz/kz/on-air-online/](https://mtrk.kz/kz/on-air-online/)
+
+**Радио**
 * Qazaq Radiosy: [https://qazradio.fm/kz/](https://qazradio.fm/kz/)
 * Shalqar Radios: [https://qazradio.fm/shalqarfm/kz/](https://qazradio.fm/shalqarfm/kz/)
 * Astana Radiosy: [https://qazradio.fm/astanafm/kz/](https://qazradio.fm/astanafm/kz/)
