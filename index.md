@@ -2,48 +2,48 @@
 
 ![TiviMate IPTV Player](https://aidoseg.github.io/qazaqiptv/assets/img/tivimate.png)
 
-**Qazaq IPTV** — это плейлист с трансляцией прямого эфира общедоступных казахстанских теле- и радиоканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все потоки берутся напрямую с официальных сайтов и доступны с территории Казахстана
+**Qazaq IPTV** —  бұл Қазақстандағы бұқаралық теле- және радиоарналардың тікелей эфирдың плейлисті. Сіз оны кез-келген IPTV қарауға арналған бағдарламамен пайдалана аласыз. Барлық ағындар тікелей ресми сайттарынан алынған және де Қазақстан аумағында қолжетімді
 
-Прямая ссылка на плейлист:
+Плейлистке тікелей сілтеме:
 [https://aidoseg.github.io/qazaqiptv/playlist.m3u8](https://aidoseg.github.io/qazaqiptv/playlist.m3u8)
 
-Сокращенная ссылка на плейлист:
+Плейлистке қысқартылған сілтеме:
 [https://bit.ly/qazaq-iptv](https://bit.ly/qazaq-iptv)
 
-Телепрограмма (EPG) в формате XMLTV: 
+XMLTV форматтағы телебағдарлама (EPG):
 [https://iptvx.one/EPG_LITE](https://iptvx.one/EPG_LITE)
 
 
 
-## Как смотреть?
+## Оны қалай қарауға болады
 
-Самый простой способ — скачать плейлист и открыть его в [VLC](https://www.videolan.org/vlc/)
+Ең қарапайым тәсіл – плейлистті жүктеп алын оны [VLC-да](https://www.videolan.org/vlc/) ашу
 
-Но лучше использовать специальные программы для IPTV, такие как [OTT Player](https://ottplayer.tv/soft), [IPTVnator](https://github.com/4gray/iptvnator/releases). Я сам пользуюсь [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) на Windows и [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)(скрин выше) на Android TV.
+Бірақ [OTT Player](https://ottplayer.tv/soft), [IPTVnator](https://github.com/4gray/iptvnator/releases) сияқты  арнайы IPTV бағдарламаларды қолданғаны дұрыс болады. Мен жеке өзім Windows-та [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) және Android TV-де [TiviMate-ті](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) пайдаланамын
 
 ## F.A.Q.
 
-**Как это всё работает?**
-- Я просто собрал ссылки на видеопотоки с официальных сайтов каналов и объединил в один плейлист
+**Бұның бәрі қалай жұмыс жасайды?**
+- Мен арналардың ресми сайттарынан ағындарды алып жәй ғана бір плейлистке біріктірдім
 
-**Какие каналы есть в плейлисте?**
-- Список каналов представлен на [этой странице](./sources)
+**Плейлистте қандай арналар бар?**
+- Арналардың тізімі [осы бетте](./sources) бар
 
-**Что такое Qazaqstan International?**
-- Qazaqstan International — это версия канала Qazaqstan для вещания за рубежом. Она отличается от казахстанской и программа может не совпадать
+**Qazaqstan International дегеніміз не?**
+- Qazaqstan International — Qazaqstan арнасының шетелге көрсетілуге арналған нұсқасы. Ішкіден айрмашылығы бар және бағдарламалары сәйкес болмауы мүмкін
 
-**Что такое QazSport 2 и QazSport 3?**
-- QazSport 2 и QazSport 3 — это те видеопотоки, которые доступны на сайте QazSport когда они показывают несколько спортивных передач одновременно. Для удобства тоже включил их в плейлист
+**QazSport 2 және QazSport 3 дегеніміз не?**
+- QazSport 2 и QazSport 3 — бұл бір ретте бірнеше бағдарлама болған кезде тек QazSport сайтында көрсетілетін ағындар
 
-**Почему здесь нет %channelname% канала?**
-- Потому что я не нашел на официальном сайте канала поток, который можно вставить в плейлист
+**Неге тізімде %channelname% арнасы жоқ?**
+- Плейлистке сәйкес келетін сілтемені арнаның ресми сайтынан таппадым деген сөз
 
-**У меня не работает  %channelname% канал**
-- Возможно канал приостановил вещание в интернете из-за авторских прав. Возможно на вашем устройстве не хватает кодеков. Можно проверить работает ли канал на официальном сайте и сравнить
+**Неге менде %channelname% арнасы жасамай отыр?**
+- Кейде авторлық құқыққа байланысты арналар интернетте көрсетілімді шектейді. Басқа бір мүмкін  себеп — cіздің плееріңізде кодек жетіспейді. Ресми сайттан ашып көріп салыстыруға болады
 
-**Зачем это нужно когда есть бесплатный Galam TV?**
-- Просто потому что мне захотелось это сделать
+**Тегін  Galam TV барда бүның бәрі не үшін қажет?**
+- Жәй ғана болсын деп
 
-**[Источники](./sources)**
+**[Дереккөздер](./sources)**
 
-Логотип проекта составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative). Пиконы телеканалов взяты из [EPG it999](https://epg.it999.ru/), [IPTVX one](https://epg.iptvx.one/) и частично сделаны мной. Для обратной связи пишите мне на [почту](mailto:aidos.kapanov@gmail.com)
+Жобаның логотипі [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) және [Anditii Creative](https://www.flaticon.com/authors/anditii-creative) салған белгішелерден құралған. Пикондарды [EPG it999](https://epg.it999.ru/), [IPTVX one](https://epg.iptvx.one/) сайттарынан алып, бір бөлігін өзім жасадым. Кері байланыс бойынша [поштаға](mailto:aidos.kapanov@gmail.com) жазыңыз
