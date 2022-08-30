@@ -33,7 +33,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a><p class="right"><a href="./ru">RU</a></p></right></h1>
+        <h1><p class="header-left"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></p><p class="header-right"><a href="./ru">RU</a></p></right></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
