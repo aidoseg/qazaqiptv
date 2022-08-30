@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-p.right {
+
+p.header-left {
+  text-align: left;
+}
+
+p.header-right {
   text-align: right;
 }
