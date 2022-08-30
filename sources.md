@@ -61,6 +61,6 @@ layout: default
 * Авторадио KZ: [https://avtoradio.kz/](https://avtoradio.kz/)
 * Lux FM: [https://luxfm.kz/](https://luxfm.kz/)
 
-Логотип проекта составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative). Пиконы телеканалов взяты из [EPG it999](https://epg.it999.ru/), [IptvX|one](https://epg.iptvx.one/) и частично сделаны мной
+Логотип проекта составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative). Пиконы телеканалов взяты из [EPG it999](https://epg.it999.ru/), [IPTVX|one](https://epg.iptvx.one/) и частично сделаны мной
 
 [Назад](./)
