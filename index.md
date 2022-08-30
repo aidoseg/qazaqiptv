@@ -41,6 +41,6 @@
 **Зачем это нужно когда есть бесплатный Galam TV?**
 - Просто потому что мне захотелось это сделать
 
-[Источники](./sources.html)
+**[Источники](./sources.html)**
 
 Логотип проекта составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative). Пиконы телеканалов взяты из [EPG it999](https://epg.it999.ru/), [IptvX|one](https://epg.iptvx.one/) и частично сделаны мной. Для обратной связи пишите мне на [почту](mailto:aidos.kapanov@gmail.com)
