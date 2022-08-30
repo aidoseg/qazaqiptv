@@ -19,7 +19,7 @@
 
 Самый простой способ — скачать плейлист и открыть его в [VLC](https://www.videolan.org/vlc/)
 
-Но лучше использовать специальные программы для IPTV, такие как [OTT Player](https://ottplayer.tv/soft). Я сам пользуюсь [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) на Windows и [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)(скрин выше) на Android TV.
+Но лучше использовать специальные программы для IPTV, такие как [OTT Player](https://ottplayer.tv/soft), [IPTVnator](https://github.com/4gray/iptvnator/releases). Я сам пользуюсь [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) на Windows и [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv)(скрин выше) на Android TV.
 
 ## F.A.Q.
 
