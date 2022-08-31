@@ -14,7 +14,7 @@
 /* Style The Dropdown Button */
 .dropbtn {
     background-color: #ffffff;	
-    padding: 0px 3px 3px;
+    padding: 0px 3px;
     border: none;
     cursor: pointer;
 }
@@ -29,7 +29,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
-    min-width: 56px;
+    min-width: 32px;
     z-index: 1;
 }
 
