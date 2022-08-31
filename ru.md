@@ -1,4 +1,4 @@
-## Qazaqstan's public tv/radio m3u8 playlist
+## Плейлист публичных тв/радио каналов Казахстана
 
 ![TiviMate IPTV Player](https://aidoseg.github.io/qazaqiptv/assets/img/tivimate.png)
 
@@ -44,6 +44,6 @@
 **Зачем это нужно когда есть бесплатный Galam TV?**
 - Просто потому что мне захотелось это сделать
 
-**[Источники](./sources)**
+**[Источники](./ru/sources)**
 
 Логотип проекта составлен из иконок авторства [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) и [Anditii Creative](https://www.flaticon.com/authors/anditii-creative). Пиконы телеканалов взяты из [EPG it999](https://epg.it999.ru/), [IPTVX one](https://epg.iptvx.one/) и частично сделаны мной. Для обратной связи пишите мне на [почту](mailto:aidos.kapanov@gmail.com)
