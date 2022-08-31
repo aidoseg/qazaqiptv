@@ -1,4 +1,4 @@
-## Плейлист публичных тв/радио каналов Казахстана
+## Плейлист тв/радио каналов Казахстана
 
 ![TiviMate IPTV Player](https://aidoseg.github.io/qazaqiptv/assets/img/tivimate.png)
 
