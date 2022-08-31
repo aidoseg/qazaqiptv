@@ -1,4 +1,4 @@
-## Қазақстандык тв/радио арналарының плейлисті
+## Қазақстандық тв/радио плейлисті
 
 ![TiviMate IPTV Player](https://aidoseg.github.io/qazaqiptv/assets/img/tivimate.png)
 
