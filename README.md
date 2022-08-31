@@ -2,21 +2,21 @@
 
 ![logo](https://aidoseg.github.io/qazaqiptv/assets/img/logo.png)
 
-[**Qazaq IPTV**](https://aidoseg.github.io/qazaqiptv/) — это плейлист с трансляцией прямого эфира общедоступных казахстанских теле- и радиоканалов. Вы можете использовать его с любой совместимой программой для просмотра IPTV. Все видеопотоки берутся напрямую с официальных сайтов и доступны для просмотра с территории Казахстана
+[**Qazaq IPTV**](https://aidoseg.github.io/qazaqiptv/) — is a Qazaqstan's public tv/radio m3u8 playlist. You can use it with any compatible IPTV app. All streams goes from offical sites and available in Kazakhstan's area
 
-Прямая ссылка на плейлист:
+Playlist direct link:
 https://aidoseg.github.io/qazaqiptv/playlist.m3u8
 
-Сокращенная ссылка на плейлист:
+Playlist shortened link:
 https://bit.ly/qazaq-iptv
 
-Если программа не загрузилась, то пропишите в качестве источника EPG эту ссылку: 
+TV Schedule in XMLTV format:
 https://iptvx.one/EPG_LITE
 
-## Как смотреть?
+## How to watch?
 
-Самый простой способ — скачать плейлист и открыть его в [VLC](https://www.videolan.org/vlc/)
+The most easy way to download playlist and open it in [VLC](https://www.videolan.org/vlc/)
 
-Но лучше использовать специальные программы для IPTV, такие как [OTT Player](https://ottplayer.tv/soft), [IPTVnator](https://github.com/4gray/iptvnator/releases). Я сам пользуюсь [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) на Windows и [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) на Android TV.
+But better use special IPTV apps such as [OTT Player](https://ottplayer.tv/soft), [IPTVnator](https://github.com/4gray/iptvnator/releases). My own choice is [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) for Windows and [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) for Android TV.
 
-Для обратной связи пишите мне в [телегу](https://t.me/aidoseg)
+Feedback: [my telegram](https://t.me/aidoseg)
