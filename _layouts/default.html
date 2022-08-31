@@ -47,14 +47,14 @@
           <div class="dropdown">
           <button class="dropbtn"><img src="https://aidoseg.github.io/qazaqiptv/assets/img/translate.png"></button>
           <div class="dropdown-content">
-          <a href="/"><img src="https://aidoseg.github.io/qazaqiptv/assets/img/kz.png"></a>
+          <a href="{{ "/" | absolute_url }}"><img src="https://aidoseg.github.io/qazaqiptv/assets/img/kz.png"></a>
           <a href="./ru/"><img src="https://aidoseg.github.io/qazaqiptv/assets/img/ru.png"></a>
   </div>
 </div>
           </span></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
 
         <p><center/><h3>{{ site.description | default: site.github.project_tagline }}</h3></center/></p>
