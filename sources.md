@@ -63,4 +63,4 @@ layout: default
 
 Жобаның логотипі [Atif Arshad](https://www.flaticon.com/authors/Atif-Arshad) және [Anditii Creative](https://www.flaticon.com/authors/anditii-creative) салған белгішелерден құралған. Пикондарды [EPG it999](https://epg.it999.ru/), [IPTVX one](https://epg.iptvx.one/) сайттарынан алып, бір бөлігін өзім жасадым. Кері байланыс бойынша [поштаға](mailto:aidos.kapanov@gmail.com) жазыңыз
 
-[Назад](./)
+[Артқа](./)
