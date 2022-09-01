@@ -11,6 +11,7 @@ layout: default
 * Хабар 24: [https://24.kz/kz/live-24-kz](https://24.kz/kz/live-24-kz)
 * El Arna: [https://elarna.kz/kk/onlinetv](https://elarna.kz/kk/onlinetv)
 * Qazaq TV: [https://qazaqtv.com/kk/live](https://qazaqtv.com/kk/live)
+* Jibek Joly: [https://qazaqtv.com/kk/live](https://qazaqtv.com/kk/live)
 * Abai TV: [https://abaitv.kz/kz/live](https://abaitv.kz/kz/live)
 * Первый канал Евразия: [https://1tv.kz/1tv-live/](https://1tv.kz/1tv-live/)
 * КТК: [https://www.ktk.kz/kz/live/](https://www.ktk.kz/kz/live/)
