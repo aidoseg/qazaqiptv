@@ -161,3 +161,6 @@ http://95.56.234.40:8080/AVTORADIO_AAC
 
 #EXTINF:-1 channel-id="54" tvg-id="lux-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/lux-fm.png" group-title="Radio" tvg-name="Lux FM",Lux FM
 https://icecast.luxfm.kz/luxfm
+
+#EXTINF:-1 channel-id="55" tvg-id="rus-radio-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rus-radio-kz.png" group-title="Radio" tvg-name="Русское радио Азия",Русское радио Азия
+https://rusradio.cdnqb.net/stream
