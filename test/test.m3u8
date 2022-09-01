@@ -19,7 +19,7 @@ https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
 https://ikomg3.s.llnwi.net/test123/master.m3u8
 
 #EXTINF:-1 channel-id="7" tvg-id="jibek-joly" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jibek-joly.png" group-title="National" tvg-name="Jibek Joly",Jibek Joly
-https://ikomg3.s.llnwi.net/test123/master.m3u8
+https://live-qazaqtv.cdnvideo.ru/qazaqtv-test/qazaqtvtest.smil/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 channel-id="8" tvg-id="abaitv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/abaitv.png" group-title="National" tvg-name="Abai TV",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/abaitv/abaitv_720/chunks.m3u8
