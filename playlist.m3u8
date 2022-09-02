@@ -153,7 +153,7 @@ http://player.tengrifm.kz:8000/tengrifm
 #EXTINF:-1 channel-id="51" tvg-id="zhuldyz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/zhuldyz-fm.png" group-title="Radio" tvg-name="Zhuldyz FM",Zhuldyz FM
 http://player.tengrifm.kz:8000/zhulduz
 
-#EXTINF:-1 channel-id="52" tvg-id="zhuldyz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/retro-fm-kz.png" group-title="Radio" tvg-name="Zhuldyz FM",Zhuldyz FM
+#EXTINF:-1 channel-id="52" tvg-id="zhuldyz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/retro-fm-kz.png" group-title="Radio" tvg-name="Ретро FM Qazaqstan",Ретро FM Qazaqstan
 http://player.tengrifm.kz:8000/vostokfm
 
 #EXTINF:-1 channel-id="53" tvg-id="radio-ns-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/radio-ns-fm.png" group-title="Radio" tvg-name="Радио N-S",Радио N-S
