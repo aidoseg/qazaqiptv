@@ -148,19 +148,22 @@ https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
 http://89.219.34.117:8008/NEWENERGY_256k
 
 #EXTINF:-1 channel-id="50" tvg-id="tengri-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/tengrifm.png" group-title="Radio" tvg-name="Tengri FM",Tengri FM
-http://91.201.214.229:8000/tengrifm
+http://player.tengrifm.kz:8000/tengrifm
 
 #EXTINF:-1 channel-id="51" tvg-id="zhuldyz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/zhuldyz-fm.png" group-title="Radio" tvg-name="Zhuldyz FM",Zhuldyz FM
-http://91.201.214.229:8000/zhulduz
+http://player.tengrifm.kz:8000/zhulduz
 
-#EXTINF:-1 channel-id="52" tvg-id="radio-ns-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/radio-ns-fm.png" group-title="Radio" tvg-name="Радио N-S",Радио N-S
+#EXTINF:-1 channel-id="52" tvg-id="zhuldyz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/retro-fm-kz.png" group-title="Radio" tvg-name="Zhuldyz FM",Zhuldyz FM
+http://player.tengrifm.kz:8000/vostokfm
+
+#EXTINF:-1 channel-id="53" tvg-id="radio-ns-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/radio-ns-fm.png" group-title="Radio" tvg-name="Радио N-S",Радио N-S
 https://icecast.ns.kz/radions
 
-#EXTINF:-1 channel-id="53" tvg-id="autoradio-kz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/autoradio.png" group-title="Radio" tvg-name="Авторадио KZ",Авторадио KZ
+#EXTINF:-1 channel-id="54" tvg-id="autoradio-kz-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/autoradio.png" group-title="Radio" tvg-name="Авторадио KZ",Авторадио KZ
 http://95.56.234.40:8080/AVTORADIO_AAC
 
-#EXTINF:-1 channel-id="54" tvg-id="lux-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/lux-fm.png" group-title="Radio" tvg-name="Lux FM",Lux FM
+#EXTINF:-1 channel-id="55" tvg-id="lux-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/lux-fm.png" group-title="Radio" tvg-name="Lux FM",Lux FM
 https://icecast.luxfm.kz/luxfm
 
-#EXTINF:-1 channel-id="55" tvg-id="rus-radio-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rus-radio-kz.png" group-title="Radio" tvg-name="Русское радио Азия",Русское радио Азия
+#EXTINF:-1 channel-id="56" tvg-id="rus-radio-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rus-radio-kz.png" group-title="Radio" tvg-name="Русское радио Азия",Русское радио Азия
 https://rusradio.cdnqb.net/stream
