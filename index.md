@@ -4,11 +4,8 @@
 
 **Qazaq IPTV** —  бұл Қазақстандағы бұқаралық теле- және радиоарналардың тікелей эфирдың m3u8 форматтағы плейлисті. Сіз оны кез-келген IPTV қарауға арналған бағдарламамен пайдалана аласыз. Барлық ағындар тікелей ресми сайттарынан алынған және де Қазақстан аумағында қолжетімді
 
-Плейлистке тікелей сілтеме:
-[https://aidoseg.github.io/qazaqiptv/playlist.m3u8](https://aidoseg.github.io/qazaqiptv/playlist.m3u8)
-
-Плейлистке қысқартылған сілтеме:
-[https://bit.ly/qazaq-iptv](https://bit.ly/qazaq-iptv)
+Плейлистке сілтеме:
+[https://tiny.one/qazaqiptv](https://tiny.one/qazaqiptv)
 
 XMLTV форматтағы телебағдарлама (EPG):
 [https://iptvx.one/EPG_LITE](https://iptvx.one/EPG_LITE)
@@ -17,7 +14,7 @@ XMLTV форматтағы телебағдарлама (EPG):
 
 ## Оны қалай қарауға болады
 
-Ең қарапайым тәсіл – плейлистті жүктеп алын оны [VLC-да](https://www.videolan.org/vlc/) ашу
+Ең қарапайым тәсіл – плейлисттің сілтемесін көшіріп алып оны [VLC-да](https://www.videolan.org/vlc/) ашу
 
 Бірақ [OTT Player](https://ottplayer.tv/soft), [IPTVnator](https://github.com/4gray/iptvnator/releases) сияқты  арнайы IPTV бағдарламаларды қолданғаны дұрыс болады. Мен жеке өзім Windows-та [My IPTV Player](https://apps.microsoft.com/store/detail/myiptv-player/9PJJ2NMBF0TR?hl=en-us&gl=US) және Android TV-де [TiviMate-ті](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) пайдаланамын
 
