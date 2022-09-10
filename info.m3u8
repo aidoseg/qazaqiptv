@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10,
-https://aidoseg.github.io/qazaqiptv/info.ts
+#EXTINF:10.105,
+https://aidoseg.github.io/qazaqiptv/in.ts
 #EXT-X-ENDLIST
