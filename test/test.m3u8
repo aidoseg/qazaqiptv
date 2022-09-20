@@ -1,593 +1,402 @@
 #EXTM3U url-tvg="https://iptvx.site/epg_lite.xml.gz"
 
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="31-kanal-kz" tvg-logo="https://iptvxcdn.ml/31-kanal-kz.png" tvg-name="31 канал",31 канал
-https://imga.beetv.kz/btv/icon/31kanal/31kanal.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="abaitv" tvg-logo="https://iptvxcdn.ml/abaitv.png" tvg-name="Abai TV",Abai TV
-https://imga.beetv.kz/btv/icon/ABayTV/ABayTV.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="atameken-business" tvg-logo="https://iptvxcdn.ml/atameken-business.png" tvg-name="Atameken Business",Atameken Business
-https://imga.beetv.kz/btv/SWM/Atameken/Atameken.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="xabar24" tvg-logo="https://iptvxcdn.ml/xabar24.png" tvg-name="Хабар 24",Хабар 24
-https://imga.beetv.kz/btv/SWM/Khabar_24_HD/Khabar_24.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="xabar" tvg-logo="https://iptvxcdn.ml/xabar.png" tvg-name="Хабар",Хабар
-https://imga.beetv.kz/btv/SWM/Khabar_HD/Khabar.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="kazakhstan" tvg-logo="https://iptvxcdn.ml/kazakhstan.png" tvg-name="Qazaqstan HD",Qazaqstan HD
-https://imga.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="stv-kz" tvg-logo="https://iptvxcdn.ml/stv-kz.png" tvg-name="СТВ Казахстан",СТВ Казахстан
-https://imga.beetv.kz/btv/SWM/STV/STV.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="7kanal-kz" tvg-logo="https://iptvxcdn.ml/7kanal-kz.png" tvg-name="7 канал",7 канал
-https://imga.beetv.kz/btv/SWM/SWM_7/SWM_7.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="astana" tvg-logo="https://iptvxcdn.ml/astana.png" tvg-name="Astana",Astana
-https://imga.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty-tv.png" tvg-name="Almaty",Almaty
-https://imga.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="asyl-arna" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/talim-tv.png" tvg-name="Talim TV",Talim TV
-https://imga.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jibek-joly.png" tvg-name="Jibek Joly",Jibek Joly
-https://imga.beetv.kz/btv/SWM/SWM_Bilim/SWM_Bilim.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="el-arna" tvg-logo="https://iptvxcdn.ml/el-arna.png" tvg-name="El Arna",El Arna
-https://imga.beetv.kz/btv/SWM/SWM_Elarna/SWM_Elarna.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="ktk-kz" tvg-logo="https://iptvxcdn.ml/ktk-kz.png" tvg-name="КТК",КТК
-https://imga.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="mir-kz" tvg-logo="https://iptvxcdn.ml/mir.png" tvg-name="Мир KZ",Мир KZ
-https://imga.beetv.kz/btv/SWM/SWM_MIR/SWM_MIR.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png" tvg-name="Первый канал Евразия",Первый канал Евразия
-https://imga.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="zhetysu" tvg-logo="https://iptvxcdn.ml/zhetysu.png" tvg-name="Жетісу",Жетісу
-https://imga.beetv.kz/btv/SWM/Zhetisy/Zhetisu.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="ertis" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/ertis.png" tvg-name="Ertis",Ertis
-https://imga.beetv.kz/btv/SWM/ertis/ertis.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="jambyl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jambyl.png" tvg-name="Jambyl",Jambyl
-https://imga.beetv.kz/btv/SWM/jambyl/jambyl.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/first-karagandy.png" tvg-name="Первый Карагандинский",Первый Карагандинский 
-https://imga.beetv.kz/btv/SWM/1Karagand/1Karagand.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="alautv" tvg-logo="https://iptvxcdn.ml/alautv.png" tvg-name="Алау ТВ",Алау ТВ
-https://imga.beetv.kz/btv/SWM/Alau_tv/Alau_tv.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="saryarqa" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/saryarqa.png" tvg-name="Saryarqa",Saryarqa
-https://imga.beetv.kz/btv/SWM/Kazakhstan_Karaganda/Kazakhstan_Karaganda.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="no_epg" tvg-logo="https://iptvxcdn.ml/kazakhstan.png" tvg-name="Qazaqstan International",Qazaqstan International
+#EXTINF: -1 tvg-id="kazakhstan" tvg-name="Qazaqstan HD" tvg-logo="https://iptvxcdn.ml/kazakhstan.png" group-title="Qazaqstan", Qazaqstan HD
+https://imga.beetv.kz/btv/SWM/Qazaqstan_HD/Qazaqstan_HD.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="Qazaqstan International" tvg-logo="https://iptvxcdn.ml/kazakhstan.png" group-title="Qazaqstan", Qazaqstan International
 https://imga.beetv.kz/btv/SWM/Qazaqstan_HD_int/Qazaqstan_HD_int.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="novoe-televidenie" tvg-logo="https://iptvxcdn.ml/novoe-televidenie.png" tvg-name="Новое телевидение",Новое телевидение
-https://imga.beetv.kz/btv/SWM/New_TV/New_TV.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/77tv.png" tvg-name="77 TV",77 TV
-https://imga.beetv.kz/btv/SWM/SWM_77TV/SWM_77TV.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="turan-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/turan.png" tvg-name="Turan TV",Turan TV
+#EXTINF: -1 tvg-id="xabar" tvg-name="Хабар" tvg-logo="https://iptvxcdn.ml/xabar.png" group-title="Qazaqstan", Хабар
+https://imga.beetv.kz/btv/SWM/Khabar_HD/Khabar_HD.m3u8
+#EXTINF: -1 tvg-id="xabar24" tvg-name="Хабар 24" tvg-logo="https://iptvxcdn.ml/xabar24.png" group-title="Qazaqstan", Хабар 24
+https://imga.beetv.kz/btv/SWM/Khabar_24_HD/Khabar_24_HD.m3u8
+#EXTINF: -1 tvg-id="el-arna" tvg-name="El Arna" tvg-logo="https://iptvxcdn.ml/el-arna.png" group-title="Qazaqstan", El Arna
+https://imga.beetv.kz/btv/SWM/SWM_Elarna/SWM_Elarna.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="Jibek Joly" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jibek-joly.png" group-title="Qazaqstan", Jibek Joly
+https://imga.beetv.kz/btv/SWM/SWM_Bilim/SWM_Bilim.m3u8
+#EXTINF: -1 tvg-id="31-kanal-kz" tvg-name="31 канал" tvg-logo="https://iptvxcdn.ml/31-kanal-kz.png" group-title="Qazaqstan", 31 канал
+https://imga.beetv.kz/btv/icon/31kanal/31kanal.m3u8
+#EXTINF: -1 tvg-id="7kanal-kz" tvg-name="7 канал" tvg-logo="https://iptvxcdn.ml/7kanal-kz.png" group-title="Qazaqstan", 7 канал
+https://imga.beetv.kz/btv/SWM/SWM_7/SWM_7.m3u8
+#EXTINF: -1 tvg-id="stv-kz" tvg-name="СТВ Казахстан" tvg-logo="https://iptvxcdn.ml/stv-kz.png" group-title="Qazaqstan", СТВ Казахстан
+https://imga.beetv.kz/btv/SWM/STV/STV.m3u8
+#EXTINF: -1 tvg-id="ktk-kz" tvg-name="КТК" tvg-logo="https://iptvxcdn.ml/ktk-kz.png" group-title="Qazaqstan", КТК
+https://imga.beetv.kz/btv/SWM/SWM_KTK/SWM_KTK.m3u8
+#EXTINF: -1 tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png" group-title="Qazaqstan", Первый канал Евразия
+https://imga.beetv.kz/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
+#EXTINF: -1 tvg-id="mir-kz" tvg-name="Мир KZ" tvg-logo="https://iptvxcdn.ml/mir.png" group-title="Qazaqstan", Мир KZ
+https://imga.beetv.kz/btv/SWM/SWM_MIR/SWM_MIR.m3u8
+#EXTINF: -1 tvg-id="almaty" tvg-name="Almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty-tv.png" group-title="Qazaqstan", Almaty
+https://imga.beetv.kz/btv/SWM/SWM_Almaty-Alt/SWM_Almaty-Alt.m3u8
+#EXTINF: -1 tvg-id="astana" tvg-name="Astana" tvg-logo="https://iptvxcdn.ml/astana.png" group-title="Qazaqstan", Astana
+https://imga.beetv.kz/btv/SWM/SWM_ASTANA/SWM_ASTANA.m3u8
+#EXTINF: -1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-logo="https://iptvxcdn.ml/atameken-business.png" group-title="Qazaqstan", Atameken Business
+https://imga.beetv.kz/btv/SWM/Atameken/Atameken.m3u8
+#EXTINF: -1 tvg-id="abaitv" tvg-name="Abai TV" tvg-logo="https://iptvxcdn.ml/abaitv.png" group-title="Qazaqstan", Abai TV
+https://imga.beetv.kz/btv/icon/ABayTV/ABayTV.m3u8
+#EXTINF: -1 tvg-id="asyl-arna" tvg-name="Talim TV" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/talim-tv.png" group-title="Qazaqstan", Talim TV
+https://imga.beetv.kz/btv/SWM/SWM_AsylArna/SWM_AsylArna.m3u8
+#EXTINF: -1 tvg-id="turan-tv" tvg-name="Turan TV" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/turan.png" group-title="Qazaqstan", Turan TV
 https://imga.beetv.kz/btv/SWM/SWM_TuranTV/SWM_TuranTV.m3u8
-
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qostanai.png" tvg-name="Qostanai",Qostanai
+#EXTINF: -1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-logo="https://iptvxcdn.ml/novoe-televidenie.png" group-title="Qazaqstan", Новое телевидение
+https://imga.beetv.kz/btv/SWM/New_TV/New_TV.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="Первый Карагандинский" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/first-karagandy.png" group-title="Qazaqstan", Первый Карагандинский
+https://imga.beetv.kz/btv/SWM/1Karagand/1Karagand.m3u8
+#EXTINF: -1 tvg-id="alautv" tvg-name="Алау ТВ" tvg-logo="https://iptvxcdn.ml/alautv.png" group-title="Qazaqstan", Алау ТВ
+https://imga.beetv.kz/btv/SWM/Alau_tv/Alau_tv.m3u8
+#EXTINF: -1 tvg-id="zhetysu" tvg-name="Жетісу" tvg-logo="https://iptvxcdn.ml/zhetysu.png" group-title="Qazaqstan", Жетісу
+https://imga.beetv.kz/btv/SWM/Zhetisy/Zhetisu.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="77 TV" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/77tv.png" group-title="Qazaqstan", 77 TV
+https://imga.beetv.kz/btv/SWM/SWM_77TV/SWM_77TV.m3u8
+#EXTINF: -1 tvg-id="tvoyo-tv-kz" tvg-name="ТвоЁ ТВ" tvg-logo="https://iptvxcdn.ml/tvoyo-tv-kz.png" group-title="Qazaqstan", ТвоЁ ТВ
+https://imga.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
+#EXTINF: -1 tvg-id="ertis" tvg-name="Ertis" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/ertis.png" group-title="Qazaqstan", Ertis
+https://imga.beetv.kz/btv/SWM/ertis/ertis.m3u8
+#EXTINF: -1 tvg-id="jambyl" tvg-name="Jambyl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jambyl.png" group-title="Qazaqstan", Jambyl
+https://imga.beetv.kz/btv/SWM/jambyl/jambyl.m3u8
+#EXTINF: -1 tvg-id="saryarqa" tvg-name="Saryarqa" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/saryarqa.png" group-title="Qazaqstan", Saryarqa
+https://imga.beetv.kz/btv/SWM/Kazakhstan_Karaganda/Kazakhstan_Karaganda.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="Qostanai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qostanai.png" group-title="Qazaqstan", Qostanai
 https://imga.beetv.kz/btv/icon/Kazakhstan_Kostanay/Kazakhstan_Kostanay.m3u8
 
-#EXTINF:-1 group-title="Qazaqstan" tvg-id="tvoyo-tv-kz" tvg-logo="https://iptvxcdn.ml/tvoyo-tv-kz.png" tvg-name="ТвоЁ ТВ",ТвоЁ ТВ
-https://imga.beetv.kz/btv/icon/TvoyTV/TvoyTV.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tvcentr" tvg-logo="https://iptvxcdn.ml/tvcentr.png" tvg-name="ТВЦ",ТВЦ
-https://imga.beetv.kz/btv/SWM/TVCentr/TVCentr.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="telekafe" tvg-logo="https://iptvxcdn.ml/telekafe.png" tvg-name="Телекафе",Телекафе
-https://imga.beetv.kz/btv/icon/Telecafe/Telecafe.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="1plus1-int" tvg-logo="https://iptvxcdn.ml/1plus1-int.png" tvg-name="1+1 International",1+1 International
+#EXTINF: -1 tvg-id="1plus1-int" tvg-name="1+1 International" tvg-logo="https://iptvxcdn.ml/1plus1-int.png" group-title="General", 1+1 International
 https://edge03.beetv.kz/btv/SWM/1_plus_1/1_plus_1.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="domashny-int" tvg-logo="https://iptvxcdn.ml/domashny-int.png" tvg-name="Домашний International",Домашний International
-https://imga.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="rentv-int" tvg-logo="https://iptvxcdn.ml/rentv-int.png" tvg-name="Рен ТВ International",Рен ТВ International
-https://imga.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="5kanal-ru" tvg-logo="https://iptvxcdn.ml/5kanal-ru.png" tvg-name="Пятый канал",Пятый канал
-https://imga.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="8kanal-ru" tvg-logo="https://iptvxcdn.ml/8kanal-ru.png" tvg-name="8 канал",8 канал
+#EXTINF: -1 tvg-id="8kanal-ru" tvg-name="8 канал" tvg-logo="https://iptvxcdn.ml/8kanal-ru.png" group-title="General", 8 канал
 https://imga.beetv.kz/btv/SWM/SWM_8/SWM_8.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="ntv-mir" tvg-logo="https://iptvxcdn.ml/ntv-mir.png" tvg-name="НТВ Мир",НТВ Мир
-https://imga.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="pervy-kanal-csi" tvg-logo="https://iptvxcdn.ml/pervy-kanal-csi.png" tvg-name="Первый канал СНГ",Первый канал СНГ
-https://imga.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tdk-42" tvg-logo="https://iptvxcdn.ml/tdk-42.png" tvg-name="ТДК 42",ТДК 42
-https://imga.beetv.kz/btv/SWM/TDK42/TDK42.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tnv-planeta" tvg-logo="https://iptvxcdn.ml/tnv.png" tvg-name="ТНВ Планета",ТНВ Планета
-https://imga.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="rtr-planeta-azia" tvg-logo="https://iptvxcdn.ml/rtr-planeta.png" tvg-name="РТР Планета",РТР Планета
-https://imga.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="spas" tvg-logo="https://iptvxcdn.ml/spas.png" tvg-name="Спас",Спас
-https://imga.beetv.kz/btv/SWM/Spas/Spas.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tv3-int" tvg-logo="https://iptvxcdn.ml/tv3-int.png" tvg-name="ТВ3 International",ТВ3 International
-https://imga.beetv.kz/btv/SWM/TB_3_International/TB_3_International.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="vremia" tvg-logo="https://iptvxcdn.ml/vremia.png" tvg-name="Время",Время
-https://imga.beetv.kz/btv/SWM/Vremya/Vremya.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="sts-int" tvg-logo="https://iptvxcdn.ml/sts-int.png" tvg-name="СТС International",СТС International
-https://imga.beetv.kz/btv/icon/CTC_International/CTC_International.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="fashion-one-hd" tvg-logo="https://iptvxcdn.ml/fashion-one-hd.png" tvg-name="Fashion One HD",Fashion One HD
+#EXTINF: -1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="https://iptvxcdn.ml/bbc.png" group-title="General", BBC World News
+https://imga.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
+#EXTINF: -1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://iptvxcdn.ml/cnn.png" group-title="General", CNN
+https://imga.beetv.kz/btv/SWM/CNN/CNN.m3u8
+#EXTINF: -1 tvg-id="deutsche-welle-eu" tvg-name="Deutsche Welle Europe" tvg-logo="https://iptvxcdn.ml/deutsche-welle-eu.png" group-title="General", Deutsche Welle Europe
+https://imga.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
+#EXTINF: -1 tvg-id="euronews" tvg-name="EuroNews" tvg-logo="https://iptvxcdn.ml/euronews.png" group-title="General", EuroNews
+https://imga.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
+#EXTINF: -1 tvg-id="fashion-one-hd" tvg-name="Fashion One HD" tvg-logo="https://iptvxcdn.ml/fashion-one-hd.png" group-title="General", Fashion One HD
 https://imga.beetv.kz/btv/SWM/Fashion_ONE/Fashion_ONE.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="paramount-comedy" tvg-logo="https://iptvxcdn.ml/paramount-comedy.png" tvg-name="Paramount Comedy",Paramount Comedy
+#EXTINF: -1 tvg-id="france-24" tvg-name="France 24" tvg-logo="https://iptvxcdn.ml/france24.png" group-title="General", France 24"
+https://imga.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
+#EXTINF: -1 tvg-id="paramount-comedy" tvg-name="Paramount Comedy" tvg-logo="https://iptvxcdn.ml/paramount-comedy.png" group-title="General", Paramount Comedy
 https://imga.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="perec-int" tvg-logo="https://iptvxcdn.ml/perec.png" tvg-name="Перец",Перец
+#EXTINF: -1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="https://iptvxcdn.ml/rtvi.png" group-title="General", RTVi
+https://imga.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
+#EXTINF: -1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://iptvxcdn.ml/tlc.png" group-title="General", TLC HD
+https://imga.beetv.kz/btv/SWM/tlc_hd/tlc_hd.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="TMB TV" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/tmb.png" group-title="General", TMB TV
+https://imga.beetv.kz/btv/SWM/TMB_TV/TMB_TV.m3u8
+#EXTINF: -1 tvg-id="trt-avaz" tvg-name="TRT Avaz" tvg-logo="https://iptvxcdn.ml/trt-avaz.png" group-title="General", TRT Avaz
+https://imga.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
+#EXTINF: -1 tvg-id="belarus24" tvg-name="Беларусь 24" tvg-logo="https://iptvxcdn.ml/belarus24.png" group-title="General", Беларусь 24
+https://imga.beetv.kz/btv/SWM/Belarus/Belarus.m3u8
+#EXTINF: -1 tvg-id="vremia" tvg-name="Время" tvg-logo="https://iptvxcdn.ml/vremia.png" group-title="General", Время
+https://imga.beetv.kz/btv/SWM/Vremya/Vremya.m3u8
+#EXTINF: -1 tvg-id="domashny-int" tvg-name="Домашний International" tvg-logo="https://iptvxcdn.ml/domashny-int.png" group-title="General", Домашний International
+https://imga.beetv.kz/btv/SWM/Domashniy_int/Domashniy_int.m3u8
+#EXTINF: -1 tvg-id="kvartal-tv" tvg-name="Квартал ТВ" tvg-logo="https://iptvxcdn.ml/kvartal-tv.png" group-title="General", Квартал ТВ
+https://imga.beetv.kz/btv/SWM/Kvartal_TV/Kvartal_TV.m3u8
+#EXTINF: -1 tvg-id="mir-24" tvg-name="Мир 24" tvg-logo="https://iptvxcdn.ml/mir24.png" group-title="General", Мир 24
+https://imga.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
+#EXTINF: -1 tvg-id="muzhskoy" tvg-name="Мужской" tvg-logo="https://iptvxcdn.ml/muzhskoy.png" group-title="General", Мужской
+https://imga.beetv.kz/btv/SWM/Muzhskoy/Muzhskoy.m3u8
+#EXTINF: -1 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="https://iptvxcdn.ml/ntv-mir.png" group-title="General", НТВ Мир
+https://imga.beetv.kz/btv/SWM/SWM_NTV-MIR/SWM_NTV-MIR.m3u8
+#EXTINF: -1 tvg-id="pervy-kanal-csi" tvg-name="Первый канал СНГ" tvg-logo="https://iptvxcdn.ml/pervy-kanal-csi.png" group-title="General", Первый канал СНГ
+https://imga.beetv.kz/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
+#EXTINF: -1 tvg-id="perec-int" tvg-name="Перец" tvg-logo="https://iptvxcdn.ml/perec.png" group-title="General", Перец
 https://imga.beetv.kz/btv/SWM/Perec/Perec.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="piatnica" tvg-logo="https://iptvxcdn.ml/piatnica.png" tvg-name="Пятница",Пятница
+#EXTINF: -1 tvg-id="piatnica" tvg-name="Пятница" tvg-logo="https://iptvxcdn.ml/piatnica.png" group-title="General", Пятница
 https://imga.beetv.kz/btv/SWM/Pyatnica_KZ/Pyatnica_KZ.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tnt" tvg-logo="https://iptvxcdn.ml/tnt.png" tvg-name="ТНТ",ТНТ
+#EXTINF: -1 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="https://iptvxcdn.ml/5kanal-ru.png" group-title="General", Пятый канал
+https://imga.beetv.kz/btv/SWM/SWM_5kanal/SWM_5kanal.m3u8
+#EXTINF: -1 tvg-id="rbk" tvg-name="РБК" tvg-logo="https://iptvxcdn.ml/rbk.png" group-title="General", РБК
+https://imga.beetv.kz/btv/SWM/RBK_TV/RBK_TV.m3u8
+#EXTINF: -1 tvg-id="rentv-int" tvg-name="Рен ТВ International" tvg-logo="https://iptvxcdn.ml/rentv-int.png" group-title="General", Рен ТВ International
+https://imga.beetv.kz/btv/SWM/RenTV/RenTV.m3u8
+#EXTINF: -1 tvg-id="rossia-24" tvg-name="Россия 24" tvg-logo="https://iptvxcdn.ml/rossia-24.png" group-title="General", Россия 24
+https://imga.beetv.kz/btv/icon/R24/R24.m3u8
+#EXTINF: -1 tvg-id="rtr-planeta-azia" tvg-name="РТР Планета" tvg-logo="https://iptvxcdn.ml/rtr-planeta.png" group-title="General", РТР Планета
+https://imga.beetv.kz/btv/SWM/SWM_RTR/SWM_RTR.m3u8
+#EXTINF: -1 tvg-id="spas" tvg-name="Спас" tvg-logo="https://iptvxcdn.ml/spas.png" group-title="General", Спас
+https://imga.beetv.kz/btv/SWM/Spas/Spas.m3u8
+#EXTINF: -1 tvg-id="sts-int" tvg-name="СТС International" tvg-logo="https://iptvxcdn.ml/sts-int.png" group-title="General", СТС International
+https://imga.beetv.kz/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF: -1 tvg-id="tv3-int" tvg-name="ТВ3 International" tvg-logo="https://iptvxcdn.ml/tv3-int.png" group-title="General", ТВ3 International
+https://imga.beetv.kz/btv/SWM/TB_3_International/TB_3_International.m3u8
+#EXTINF: -1 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="https://iptvxcdn.ml/tvcentr.png" group-title="General", ТВЦ
+https://imga.beetv.kz/btv/SWM/TVCentr/TVCentr.m3u8
+#EXTINF: -1 tvg-id="tdk-42" tvg-name="ТДК 42" tvg-logo="https://iptvxcdn.ml/tdk-42.png" group-title="General", ТДК 42
+https://imga.beetv.kz/btv/SWM/TDK42/TDK42.m3u8
+#EXTINF: -1 tvg-id="telekafe" tvg-name="Телекафе" tvg-logo="https://iptvxcdn.ml/telekafe.png" group-title="General", Телекафе
+https://imga.beetv.kz/btv/icon/Telecafe/Telecafe.m3u8
+#EXTINF: -1 tvg-id="tnv-planeta" tvg-name="ТНВ Планета" tvg-logo="https://iptvxcdn.ml/tnv.png" group-title="General", ТНВ Планета
+https://imga.beetv.kz/btv/SWM/tnv_tatarstan/tnv_tatarstan.m3u8
+#EXTINF: -1 tvg-id="tnt" tvg-name="ТНТ" tvg-logo="https://iptvxcdn.ml/tnt.png" group-title="General", ТНТ
 https://imga.beetv.kz//btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tnt4-international" tvg-logo="https://iptvxcdn.ml/tnt4.png" tvg-name="ТНТ 4",ТНТ 4
+#EXTINF: -1 tvg-id="tnt4-international" tvg-name="ТНТ 4" tvg-logo="https://iptvxcdn.ml/tnt4.png" group-title="General", ТНТ 4
 https://imga.beetv.kz/btv/SWM/TNT4/TNT4.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tnt" tvg-logo="https://iptvxcdn.ml/tnt.png" tvg-name="ТНТ KZ",ТНТ KZ
-https://imga.beetv.kz/btv/SWM/TNT_HD/TNT.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="uspex" tvg-logo="https://iptvxcdn.ml/uspex.png" tvg-name="Успех",Успех
+#EXTINF: -1 tvg-id="tnt" tvg-name="ТНТ KZ" tvg-logo="https://iptvxcdn.ml/tnt.png" group-title="General", ТНТ KZ
+https://imga.beetv.kz/btv/SWM/TNT_HD/TNT_HD.m3u8
+#EXTINF: -1 tvg-id="uspex" tvg-name="Успех" tvg-logo="https://iptvxcdn.ml/uspex.png" group-title="General", Успех
 https://imga.beetv.kz/btv/SWM/uspeh/uspeh.m3u8
 
-#EXTINF:-1 group-title="General" tvg-id="kvartal-tv" tvg-logo="https://iptvxcdn.ml/kvartal-tv.png" tvg-name="Квартал ТВ",Квартал ТВ
-https://imga.beetv.kz/btv/SWM/Kvartal_TV/Kvartal_TV.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="muzhskoy" tvg-logo="https://iptvxcdn.ml/muzhskoy.png" tvg-name="Мужской",Мужской
-https://imga.beetv.kz/btv/SWM/Muzhskoy/Muzhskoy.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="tlc" tvg-logo="https://iptvxcdn.ml/tlc.png" tvg-name="TLC HD",TLC HD
-https://imga.beetv.kz/btv/SWM/tlc_hd/tlc.m3u8	
-
-#EXTINF:-1 group-title="General" tvg-id="bbc" tvg-logo="https://iptvxcdn.ml/bbc.png" tvg-name="BBC World News",BBC World News
-https://imga.beetv.kz/btv/SWM/BBC_World/BBC_World.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="cnn" tvg-logo="https://iptvxcdn.ml/cnn.png" tvg-name="CNN",CNN
-https://imga.beetv.kz/btv/SWM/CNN/CNN.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="deutsche-welle-eu" tvg-logo="https://iptvxcdn.ml/deutsche-welle-eu.png" tvg-name="Deutsche Welle Europe",Deutsche Welle Europe
-https://imga.beetv.kz/btv/SWM/Deutsche_Welle/Deutsche_Welle.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="rbk" tvg-logo="https://iptvxcdn.ml/rbk.png" tvg-name="РБК",РБК
-https://imga.beetv.kz/btv/SWM/RBK_TV/RBK_TV.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="rtvi" tvg-logo="https://iptvxcdn.ml/rtvi.png" tvg-name="RTVi",RTVi
-https://imga.beetv.kz/btv/SWM/RTVi/RTVi.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="euronews" tvg-logo="https://iptvxcdn.ml/euronews.png" tvg-name="EuroNews",EuroNews
-https://imga.beetv.kz/btv/SWM/SWM_Euronews_alt/SWM_Euronews_alt.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="france-24" tvg-logo="https://iptvxcdn.ml/france24.png" tvg-name="France 24",France 24"
-https://imga.beetv.kz/btv/SWM/SWM_France24_test/SWM_France24.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="mir-24" tvg-logo="https://iptvxcdn.ml/mir24.png" tvg-name="Мир 24",Мир 24
-https://imga.beetv.kz/btv/SWM/SWM_MIR24/SWM_MIR24.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="belarus24" tvg-logo="https://iptvxcdn.ml/belarus24.png" tvg-name="Беларусь 24",Беларусь 24
-https://imga.beetv.kz/btv/SWM/Belarus/Belarus.m3u8	
-
-#EXTINF:-1 group-title="General" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/tmb.png" tvg-name="TMB TV",TMB TV
-https://imga.beetv.kz/btv/SWM/TMB_TV/TMB_TV.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="rossia-24" tvg-logo="https://iptvxcdn.ml/rossia-24.png" tvg-name="Россия 24",Россия 24
-https://imga.beetv.kz/btv/icon/R24/R24.m3u8
-
-#EXTINF:-1 group-title="General" tvg-id="trt-avaz" tvg-logo="https://iptvxcdn.ml/trt-avaz.png" tvg-name="TRT Avaz",TRT Avaz
-https://imga.beetv.kz/btv/SWM/TRT_Avaz/TRT_Avaz.m3u8
-
-
-#EXTINF:-1 group-title="Sport" tvg-id="kazsport" tvg-logo="https://iptvxcdn.ml/kazsport.png" tvg-name="Qazsport HD",Qazsport HD
-https://imga.beetv.kz/btv/SWM/Qazsport_HD/Qazsport.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="setanta-kz" tvg-logo="https://iptvxcdn.ml/setanta-kz.png" tvg-name="Setanta Qazaqstan (KZ)",Setanta Qazaqstan (KZ)
-https://imga.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="setanta-kz" tvg-logo="https://iptvxcdn.ml/setanta-kz.png" tvg-name="Setanta Qazaqstan (RU)",Setanta Qazaqstan (RU)
-https://imga.beetv.kz/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports.png" tvg-name="Setanta Sports 1 (KZ)",Setanta Sports 1 (KZ)
-https://imga.beetv.kz/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="setanta-sports" tvg-logo="https://iptvxcdn.ml/setanta-sports.png" tvg-name="Setanta Sports 1 (RU)",Setanta Sports 1 (RU)
-https://imga.beetv.kz/btv/SWM/SetantaSport_HD/SetantaSport.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxcdn.ml/setanta-sports-plus.png" tvg-name="Setanta Sports 2 (KZ)",Setanta Sports 2 (KZ)
-https://imga.beetv.kz/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="setanta-sports-plus" tvg-logo="https://iptvxcdn.ml/setanta-sports-plus.png" tvg-name="Setanta Sports 2 (RU)",Setanta Sports 2 (RU)
-https://imga.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="q-sport-ext" tvg-logo="https://iptvxcdn.ml/q-sport-ext.png" tvg-name="Q Sport League",Q Sport League 
+#EXTINF: -1 tvg-id="kazsport" tvg-name="Qazsport HD" tvg-logo="https://iptvxcdn.ml/kazsport.png" group-title="Sport", Qazsport HD
+https://imga.beetv.kz/btv/SWM/Qazsport_HD/Qazsport_HD.m3u8
+#EXTINF: -1 tvg-id="q-sport-ext" tvg-name="Q Sport League" tvg-logo="https://iptvxcdn.ml/q-sport-ext.png" group-title="Sport", Q Sport League
 https://imga.beetv.kz/btv/SWM/Q/Q.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="q-sport-int" tvg-logo="https://iptvxcdn.ml/q-sport-int.png" tvg-name="Q Sport International",Q Sport International
+#EXTINF: -1 tvg-id="q-sport-int" tvg-name="Q Sport International" tvg-logo="https://iptvxcdn.ml/q-sport-int.png" group-title="Sport", Q Sport International
 https://imga.beetv.kz/btv/SWM/Qsport_international/Qsport_international.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="eurosport1" tvg-logo="https://iptvxcdn.ml/eurosport1.png" tvg-name="Eurosport",Eurosport
+#EXTINF: -1 tvg-id="setanta-kz" tvg-name="Setanta Qazaqstan (KZ)" tvg-logo="https://iptvxcdn.ml/setanta-kz.png" group-title="Sport", Setanta Qazaqstan (KZ)
+https://imga.beetv.kz/btv/SWM/SetantaKZ_HD/SetantaKZ_HD.m3u8
+#EXTINF: -1 tvg-id="setanta-kz" tvg-name="Setanta Qazaqstan (RU)" tvg-logo="https://iptvxcdn.ml/setanta-kz.png" group-title="Sport", Setanta Qazaqstan (RU)
+https://imga.beetv.kz/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
+#EXTINF: -1 tvg-id="setanta-sports" tvg-name="Setanta Sports 1 (KZ)" tvg-logo="https://iptvxcdn.ml/setanta-sports.png" group-title="Sport", Setanta Sports 1 (KZ)
+https://imga.beetv.kz/btv/SWM/setantasports1hdkz/setantasports1hdkz.m3u8
+#EXTINF: -1 tvg-id="setanta-sports" tvg-name="Setanta Sports 1 (RU)" tvg-logo="https://iptvxcdn.ml/setanta-sports.png" group-title="Sport", Setanta Sports 1 (RU)
+https://imga.beetv.kz/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
+#EXTINF: -1 tvg-id="setanta-sports-plus" tvg-name="Setanta Sports 2 (KZ)" tvg-logo="https://iptvxcdn.ml/setanta-sports-plus.png" group-title="Sport", Setanta Sports 2 (KZ)
+https://imga.beetv.kz/btv/SWM/setantasports2hdkz/setantasports2hdkz.m3u8
+#EXTINF: -1 tvg-id="setanta-sports-plus" tvg-name="Setanta Sports 2 (RU)" tvg-logo="https://iptvxcdn.ml/setanta-sports-plus.png" group-title="Sport", Setanta Sports 2 (RU)
+https://imga.beetv.kz/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
+#EXTINF: -1 tvg-id="eurosport1" tvg-name="Eurosport" tvg-logo="https://iptvxcdn.ml/eurosport1.png" group-title="Sport", Eurosport
 https://imga.beetv.kz/btv/SWM/Eurosport/Eurosport.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="eurosport2" tvg-logo="https://iptvxcdn.ml/eurosport2.png" tvg-name="Eurosport 2",Eurosport 2
+#EXTINF: -1 tvg-id="eurosport2" tvg-name="Eurosport 2" tvg-logo="https://iptvxcdn.ml/eurosport2.png" group-title="Sport", Eurosport 2
 https://imga.beetv.kz/btv/SWM/Eurosport2/Eurosport2.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="box-tv" tvg-logo="https://iptvxcdn.ml/box-tv.png" tvg-name="Бокс ТВ",Бокс ТВ
-https://imga.beetv.kz/btv/SWM/SWM_BoxTV/SWM_BoxTV.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="m1global" tvg-logo="https://iptvxcdn.ml/m1global.png" tvg-name="MMA-TV.COM HD",MMA-TV.COM HD 
-https://imga.beetv.kz/btv/SWM/M1/M1.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="match-planeta" tvg-logo="https://iptvxcdn.ml/match-planeta.png" tvg-name="Матч! Планета",Матч! Планета
-https://imga.beetv.kz/btv/SWM/MatchPlanet/MatchPlanet.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="kxl-hd" tvg-logo="https://iptvxcdn.ml/kxl-hd.png" tvg-name="KHL Prime",KHL Prime
+#EXTINF: -1 tvg-id="viasat-sport" tvg-name="Viasat Sport" tvg-logo="https://iptvxcdn.ml/viasat-sport.png" group-title="Sport", Viasat Sport
+https://imga.beetv.kz/btv/SWM/viasatsport/viasatsport.m3u8
+#EXTINF: -1 tvg-id="kxl-hd" tvg-name="KHL Prime" tvg-logo="https://iptvxcdn.ml/kxl-hd.png" group-title="Sport", KHL Prime
 https://imga.beetv.kz/btv/SWM/SWM_KHL/SWM_KHL.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="tochka-otryva" tvg-logo="https://iptvxcdn.ml/tochka-otryva.png" tvg-name="Точка отрыва",Точка отрыва
+#EXTINF: -1 tvg-id="m1global" tvg-name="MMA-TV.COM HD" tvg-logo="https://iptvxcdn.ml/m1global.png" group-title="Sport", MMA-TV.COM HD
+https://imga.beetv.kz/btv/SWM/M1/M1.m3u8
+#EXTINF: -1 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="https://iptvxcdn.ml/box-tv.png" group-title="Sport", Бокс ТВ
+https://imga.beetv.kz/btv/SWM/SWM_BoxTV/SWM_BoxTV.m3u8
+#EXTINF: -1 tvg-id="match-planeta" tvg-name="Матч! Планета" tvg-logo="https://iptvxcdn.ml/match-planeta.png" group-title="Sport", Матч! Планета
+https://imga.beetv.kz/btv/SWM/MatchPlanet/MatchPlanet.m3u8
+#EXTINF: -1 tvg-id="avto24" tvg-name="Авто24" tvg-logo="https://iptvxcdn.ml/avto24.png" group-title="Sport", Авто24
+https://imga.beetv.kz/btv/icon/Avto24/Avto24.m3u8
+#EXTINF: -1 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="https://iptvxcdn.ml/tochka-otryva.png" group-title="Sport", Точка отрыва
 https://imga.beetv.kz/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
 
-#EXTINF:-1 group-title="Sport" tvg-id="avto24" tvg-logo="https://iptvxcdn.ml/avto24.png" tvg-name="Авто24",Авто24
-https://imga.beetv.kz/btv/icon/Avto24/Avto24.m3u8
-
-#EXTINF:-1 group-title="Sport" tvg-id="viasat-sport" tvg-logo="https://iptvxcdn.ml/viasat-sport.png" tvg-name="Viasat Sport",Viasat Sport
-https://imga.beetv.kz/btv/SWM/viasatsport/viasatsport.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="sts-kids-hd" tvg-logo="https://iptvxcdn.ml/sts-kids-hd.png" tvg-name="СТС Kids",СТС Kids
-https://imga.beetv.kz/btv/icon/CTC_kids/CTC_kids.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="nick-jr" tvg-logo="https://iptvxcdn.ml/nick-jr.png" tvg-name="Nick Jr",Nick Jr
-https://imga.beetv.kz/btv/icon/Nick_Jr/Nick_Jr.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="balapan" tvg-logo="https://iptvxcdn.ml/balapan.png" tvg-name="Balapan",Balapan
-https://imga.beetv.kz/btv/SWM/Balapan_HD/Balapan.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="boomerang" tvg-logo="https://iptvxcdn.ml/boomerang.png" tvg-name="Boomerang",Boomerang	
-https://imga.beetv.kz/btv/SWM/Boomerang/Boomerang.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="cartoon-network" tvg-logo="https://iptvxcdn.ml/cartoon-network.png" tvg-name="Cartoon Network",Cartoon Network
-https://imga.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="detsky-mir" tvg-logo="https://iptvxcdn.ml/detsky-mir.png" tvg-name="Детский мир",Детский мир
-https://imga.beetv.kz/btv/SWM/DetskyMir/DetskyMir.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="ginger-hd" tvg-logo="https://iptvxcdn.ml/ginger-hd.png" tvg-name="Капитан Фантастика HD",Капитан Фантастика HD
-https://imga.beetv.kz/btv/SWM/Fantastica_HD/Fantastica.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="gulli-girl" tvg-logo="https://iptvxcdn.ml/gulli-girl.png" tvg-name="Gulli Girl",Gulli Girl
-https://imga.beetv.kz/btv/SWM/Guilli/Guilli.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon-cis" tvg-logo="https://iptvxcdn.ml/nickelodeon.png" tvg-name="Nickelodeon KZ",Nickelodeon KZ
-https://imga.beetv.kz/btv/SWM/Nikelodeon/Nikelodeon.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="nickelodeon-cis" tvg-logo="https://iptvxcdn.ml/nickelodeon.png" tvg-name="Nickelodeon",Nickelodeon
-https://imga.beetv.kz/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="mult" tvg-logo="https://iptvxcdn.ml/mult.png" tvg-name="Мульт",Мульт
-https://imga.beetv.kz/btv/SWM/SWM_Mult/SWM_Mult.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="tiji" tvg-logo="https://iptvxcdn.ml/tiji.png" tvg-name="TiJi",TiJi
-https://imga.beetv.kz/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="tiji" tvg-logo="https://iptvxcdn.ml/tiji.png" tvg-name="TiJi KZ",TiJi KZ
-https://edge02.beetv.kz/btv/SWM/TiJi_KZ/TiJi_KZ.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="nicktoons" tvg-logo="https://iptvxcdn.ml/nicktoons.png" tvg-name="Nicktoons",Nicktoons
-https://imga.beetv.kz/btv/SWM/nicktoons/nicktoons.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="malysh" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/super-heroes.png" tvg-name="СуперГерои",СуперГерои
-https://imga.beetv.kz/btv/SWM/supergeroi/supergeroi.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="detsky" tvg-logo="https://iptvxcdn.ml/unikum.png" tvg-name="Уникум",Уникум
-https://imga.beetv.kz/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="karusel-int" tvg-logo="https://iptvxcdn.ml/karusel.png" tvg-name="Карусель",Карусель
-https://imga.beetv.kz/btv/SWM/Karusel/Karusel.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="o_" tvg-logo="https://iptvxcdn.ml/o_.png" tvg-name="О!",О!
-https://imga.beetv.kz/btv/SWM/O/O.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="ryzhy" tvg-logo="https://iptvxcdn.ml/ryzhy.png" tvg-name="Рыжий",Рыжий
-https://imga.beetv.kz/btv/SWM/Ryzhyi/Ryzhyi.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="v-gostiax-u-skazki" tvg-logo="https://iptvxcdn.ml/v-gostiax-u-skazki.png" tvg-name="В гостях у сказки",В гостях у сказки
-https://imga.beetv.kz/btv/SWM/U_Skazki/U_Skazki.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="mcm-top" tvg-logo="https://iptvxcdn.ml/mcm-top.png" tvg-name="MCM Top",MCM Top
-https://imga.beetv.kz/btv/SWM/MCM/MCM.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="mtv-russia" tvg-logo="https://iptvxcdn.ml/mtv-europe.png" tvg-name="MTV Russia",MTV Russia
-https://imga.beetv.kz/btv/SWM/MTV_Russia/MTV_Russia.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="mezzo" tvg-logo="https://iptvxcdn.ml/mezzo.png" tvg-name="Mezzo",Mezzo
-https://imga.beetv.kz/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="muztv" tvg-logo="https://iptvxcdn.ml/muztv.png" tvg-name="Муз ТВ",Муз ТВ"
-https://imga.beetv.kz/btv/SWM/Muz_Tv/Muz_Tv.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="muzyka-pervogo" tvg-logo="https://iptvxcdn.ml/muzyka-pervogo.png" tvg-name="Музыка Первого",Музыка Первого
-https://imga.beetv.kz/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="muzzone" tvg-logo="https://iptvxcdn.ml/muzzone.png" tvg-name="MuzZone",MuzZone
-https://imga.beetv.kz/btv/SWM/Muzzone/Muzzone.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="gakku" tvg-logo="https://iptvxcdn.ml/gakku.png" tvg-name="Gakku",Gakku
-https://imga.beetv.kz/btv/SWM/SWM_Gakku/SWM_Gakku.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="shanson-tv" tvg-logo="https://iptvxcdn.ml/shanson-tv.png" tvg-name="Шансон ТВ",Шансон ТВ
-https://imga.beetv.kz/btv/SWM/Shanson_TV/Shanson_TV.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="tnt-music" tvg-logo="https://iptvxcdn.ml/tnt-music.png" tvg-name="ТНТ Music",ТНТ Music
-https://imga.beetv.kz/btv/SWM/Tnt_music/Tnt_music.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-id="toy-duman" tvg-logo="https://iptvxcdn.ml/toy-duman.png" tvg-name="Той Думан",Той Думан
-https://imga.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="nashe-novoe-kino" tvg-logo="https://iptvxcdn.ml/nashe-novoe-kino.png" tvg-name="Наше новое кино HD",Наше новое кино HD
-https://imga.beetv.kz/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="amedia1" tvg-logo="https://iptvxcdn.ml/amedia1.png" tvg-name="А1 HD",А1 HD
-https://imga.beetv.kz/btv/SWM/A1/A1.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="amedia2" tvg-logo="https://iptvxcdn.ml/amedia2.png" tvg-name="A2",A2
-https://imga.beetv.kz/btv/SWM/A2/A2.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="amedia-hit" tvg-logo="https://iptvxcdn.ml/amedia-hit.png" tvg-name="A HOME OF HBO 1 HD ",A HOME OF HBO 1 HD 
+#EXTINF: -1 tvg-id="amedia-hit" tvg-name="A HOME OF HBO 1 HD " tvg-logo="https://iptvxcdn.ml/amedia-hit.png" group-title="Movies", A HOME OF HBO 1 HD
 https://imga.beetv.kz/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="amedia-premium" tvg-logo="https://iptvxcdn.ml/amedia-premium.png" tvg-name="A HOME OF HBO 2 HD ",A HOME OF HBO 2 HD 
+#EXTINF: -1 tvg-id="amedia-premium" tvg-name="A HOME OF HBO 2 HD " tvg-logo="https://iptvxcdn.ml/amedia-premium.png" group-title="Movies", A HOME OF HBO 2 HD
 https://imga.beetv.kz/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="sony-turbo" tvg-logo="https://iptvxcdn.ml/sony-turbo.png" tvg-name=".black",black
+#EXTINF: -1 tvg-id="amedia1" tvg-name="А1 HD" tvg-logo="https://iptvxcdn.ml/amedia1.png" group-title="Movies", A1 HD
+https://imga.beetv.kz/btv/SWM/A1/A1.m3u8
+#EXTINF: -1 tvg-id="amedia2" tvg-name="A2" tvg-logo="https://iptvxcdn.ml/amedia2.png" group-title="Movies", A2
+https://imga.beetv.kz/btv/SWM/A2/A2.m3u8
+#EXTINF: -1 tvg-id="sony-turbo" tvg-name=".black" tvg-logo="https://iptvxcdn.ml/sony-turbo.png" group-title="Movies", black
 https://imga.beetv.kz/btv/SWM/Black/Black.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="bollywood-hd" tvg-logo="https://iptvxcdn.ml/bollywood-hd.png" tvg-name="Bollywood HD",Bollywood HD
-https://imga.beetv.kz/btv/SWM/Bollywood_HD/Bollywood.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="cinema-ru" tvg-logo="https://iptvxcdn.ml/cinema-ru.png" tvg-name="Cinema",Cinema
+#EXTINF: -1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="https://iptvxcdn.ml/bollywood-hd.png" group-title="Movies", Bollywood HD
+https://imga.beetv.kz/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF: -1 tvg-id="cinema-ru" tvg-name="Cinema" tvg-logo="https://iptvxcdn.ml/cinema-ru.png" group-title="Movies", Cinema
 https://imga.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="domkino" tvg-logo="https://iptvxcdn.ml/domkino.png" tvg-name="Дом кино",Дом кино
-https://imga.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="fox" tvg-logo="https://iptvxcdn.ml/fox.png" tvg-name="Fox HD",Fox HD
-https://imga.beetv.kz/btv/SWM/FOX/FOX.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="filmua-drama" tvg-logo="https://iptvxcdn.ml/filmua-drama.png" tvg-name="Film.Ua Drama",Film.Ua Drama
+#EXTINF: -1 tvg-id="filmua-drama" tvg-name="Film.Ua Drama" tvg-logo="https://iptvxcdn.ml/filmua-drama.png" group-title="Movies", Film.Ua Drama
 https://imga.beetv.kz/btv/SWM/FilmUADrama/FilmUADrama.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="foxlife-cis" tvg-logo="https://iptvxcdn.ml/foxlife.png" tvg-name="FoxLife HD",FoxLife HD
+#EXTINF: -1 tvg-id="fox" tvg-name="Fox HD" tvg-logo="https://iptvxcdn.ml/fox.png" group-title="Movies", Fox HD
+https://imga.beetv.kz/btv/SWM/FOX/FOX.m3u8
+#EXTINF: -1 tvg-id="foxlife-cis" tvg-name="FoxLife HD" tvg-logo="https://iptvxcdn.ml/foxlife.png" group-title="Movies", FoxLife HD
 https://imga.beetv.kz/btv/SWM/FoxLife/FoxLife.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="illuzion-plus" tvg-logo="https://iptvxcdn.ml/illuzion-plus.png" tvg-name="Иллюзион+ HD",Иллюзион+ HD
-https://imga.beetv.kz/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="q-kino-alem" tvg-logo="https://iptvxcdn.ml/q-kino-alem.png" tvg-name="Q Kino Alem",Q Kino Alem
-https://imga.beetv.kz/btv/SWM/KinoAlem/KinoAlem.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinoxit" tvg-logo="https://iptvxcdn.ml/kinoxit.png" tvg-name="Кинохит HD",Кинохит HD
-https://imga.beetv.kz/btv/SWM/KinoH/KinoH.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="q-kino-hit" tvg-logo="https://iptvxcdn.ml/q-kino-hit.png" tvg-name="Q Kino Hit",Q Kino Hit
-https://imga.beetv.kz/btv/SWM/KinoHit/KinoHit.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinopremiera-hd" tvg-logo="https://iptvxcdn.ml/kinopremiera.png" tvg-name="Кинопремьера HD",Кинопремьера HD
-https://imga.beetv.kz/btv/SWM/KinoP/KinoP.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinoseria" tvg-logo="https://iptvxcdn.ml/kinoseria.png" tvg-name="Киносерия HD",Киносерия HD
-https://imga.beetv.kz/btv/SWM/Kinoserija/Kinoserija.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinosvidanie" tvg-logo="https://iptvxcdn.ml/kinosvidanie.png" tvg-name="Киносвидание HD",Киносвидание HD
-https://imga.beetv.kz/btv/SWM/Kinoserija/Kinoserija.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="muzhskoe-kino" tvg-logo="https://iptvxcdn.ml/muzhskoe-kino.png" tvg-name="Мужское кино HD",Мужское кино HD
-https://imga.beetv.kz/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="sony-tv" tvg-logo="https://iptvxcdn.ml/sony.png" tvg-name=".red",red
-https://imga.beetv.kz/btv/SWM/Red/Red.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="paramount-channel" tvg-logo="https://iptvxcdn.ml/paramount-channel.png" tvg-name="Paramount Channel",Paramount Channel
+#EXTINF: -1 tvg-id="hollywood" tvg-name="Hollywood" tvg-logo="https://iptvxcdn.ml/hollywood.png" group-title="Movies", Hollywood
+https://imga.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF: -1 tvg-id="paramount-channel" tvg-name="Paramount Channel" tvg-logo="https://iptvxcdn.ml/paramount-channel.png" group-title="Movies", Paramount Channel
 https://imga.beetv.kz/btv/SWM/SWM_paramount_channel_russia/SWM_paramount_channel_russia.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinosemiya" tvg-logo="https://iptvxcdn.ml/kinosemia.png" tvg-name="Киносемья HD",Киносемья HD
+#EXTINF: -1 tvg-id="plan-b" tvg-name="Plan B" tvg-logo="https://iptvxcdn.ml/plan-b.png" group-title="Movies", Plan B
+https://imga.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
+#EXTINF: -1 tvg-id="q-kino-alem" tvg-name="Q Kino Alem" tvg-logo="https://iptvxcdn.ml/q-kino-alem.png" group-title="Movies", Q Kino Alem
+https://imga.beetv.kz/btv/SWM/KinoAlem/KinoAlem.m3u8
+#EXTINF: -1 tvg-id="q-kino-hit" tvg-name="Q Kino Hit" tvg-logo="https://iptvxcdn.ml/q-kino-hit.png" group-title="Movies", Q Kino Hit
+https://imga.beetv.kz/btv/SWM/KinoHit/KinoHit.m3u8
+#EXTINF: -1 tvg-id="sony-tv" tvg-name=".red" tvg-logo="https://iptvxcdn.ml/sony.png" group-title="Movies", red
+https://imga.beetv.kz/btv/SWM/Red/Red.m3u8
+#EXTINF: -1 tvg-id="sony-scifi" tvg-name="Sci-Fi" tvg-logo="https://iptvxcdn.ml/sony-scifi.png" group-title="Movies", Sci-Fi
+https://imga.beetv.kz/btv/SWM/Sci-Fi/Sci-Fi.m3u8
+#EXTINF: -1 tvg-id="start-air" tvg-name="START Air" tvg-logo="https://iptvxcdn.ml/start-air.png" group-title="Movies", START Air
+https://imga.beetv.kz/btv/SWM/start_air_hd/start_air_hd.m3u8
+#EXTINF: -1 tvg-id="start-world" tvg-name="START World" tvg-logo="https://iptvxcdn.ml/start-world.png" group-title="Movies", START World
+https://imga.beetv.kz/btv/SWM/start_world_hd/start_world_hd.m3u8
+#EXTINF: -1 tvg-id="tv1000" tvg-name="	TV1000" tvg-logo="https://iptvxcdn.ml/tv1000.png" group-title="Movies", TV1000
+https://imga.beetv.kz/btv/SWM/tv1000hd/tv1000hd.m3u8
+#EXTINF: -1 tvg-id="tv1000-action" tvg-name="TV1000 Action" tvg-logo="https://iptvxcdn.ml/tv1000-action.png" group-title="Movies", TV1000 Action
+https://imga.beetv.kz/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
+#EXTINF: -1 tvg-id="tv1000-russkoe-kino" tvg-name="TV1000 Русское кино" tvg-logo="https://iptvxcdn.ml/tv1000-russkoe-kino.png" group-title="Movies", TV1000 Русское кино
+https://imga.beetv.kz/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
+#EXTINF: -1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-logo="https://iptvxcdn.ml/zee-tv.png" group-title="Movies", Zee TV"
+https://imga.beetv.kz/btv/SWM/Zee_TV_HD/Zee_TV_HD.m3u8
+#EXTINF: -1 tvg-id="domkino" tvg-name="Дом кино" tvg-logo="https://iptvxcdn.ml/domkino.png" group-title="Movies", Дом кино
+https://imga.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+#EXTINF: -1 tvg-id="domkino-premium" tvg-name="Дом кино Премиум HD" tvg-logo="https://iptvxcdn.ml/domkino-premium.png" group-title="Movies", Дом кино Премиум HD
+https://imga.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF: -1 tvg-id="dorama" tvg-name="Дорама HD" tvg-logo="https://iptvxcdn.ml/dorama.png" group-title="Movies", Дорама HD
+https://imga.beetv.kz/btv/SWM/Dorama/Dorama.m3u8
+#EXTINF: -1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="https://iptvxcdn.ml/evrokino.png" group-title="Movies", Еврокино
+https://imga.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF: -1 tvg-id="illuzion-plus" tvg-name="Иллюзион+ HD" tvg-logo="https://iptvxcdn.ml/illuzion-plus.png" group-title="Movies", Иллюзион+ HD
+https://imga.beetv.kz/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
+#EXTINF: -1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="https://iptvxcdn.ml/indiyskoe-kino.png" group-title="Movies", Индийское кино
+https://imga.beetv.kz/btv/SWM/Indian_kino/Indian_kino.m3u8
+#EXTINF: -1 tvg-id="kinokomedia" tvg-name="Кинокомедия HD" tvg-logo="https://iptvxcdn.ml/kinokomedia.png" group-title="Movies", Кинокомедия HD
+https://imga.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija.m3u8
+#EXTINF: -1 tvg-id="kinomiks" tvg-name="Киномикс HD" tvg-logo="https://iptvxcdn.ml/kinomiks.png" group-title="Movies", Киномикс HD
+https://imga.beetv.kz/btv/SWM/KinomixHD/KinomixHD.m3u8
+#EXTINF: -1 tvg-id="kinopremiera-hd" tvg-name="Кинопремьера HD" tvg-logo="https://iptvxcdn.ml/kinopremiera.png" group-title="Movies", Кинопремьера HD
+https://imga.beetv.kz/btv/SWM/KinoP/KinoP.m3u8
+#EXTINF: -1 tvg-id="kinosvidanie" tvg-name="Киносвидание HD" tvg-logo="https://iptvxcdn.ml/kinosvidanie.png" group-title="Movies", Киносвидание HD
+https://imga.beetv.kz/btv/SWM/Kinoserija/Kinoserija.m3u8
+#EXTINF: -1 tvg-id="kinosemiya" tvg-name="Киносемья HD" tvg-logo="https://iptvxcdn.ml/kinosemia.png" group-title="Movies", Киносемья HD
 https://imga.beetv.kz/btv/SWM/kinosemya_hd_new/kinosemya_hd_new.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="mir-seriala" tvg-logo="https://iptvxcdn.ml/mir-seriala.png" tvg-name="Мир сериала",Мир сериала
+#EXTINF: -1 tvg-id="kinoseria" tvg-name="Киносерия HD" tvg-logo="https://iptvxcdn.ml/kinoseria.png" group-title="Movies", Киносерия HD
+https://imga.beetv.kz/btv/SWM/Kinoserija/Kinoserija.m3u8
+#EXTINF: -1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="https://iptvxcdn.ml/kinouzhas.png" group-title="Movies", Киноужас
+https://imga.beetv.kz/btv/SWM/KinoUzhas/KinoUzhas.m3u8
+#EXTINF: -1 tvg-id="kinoxit" tvg-name="Кинохит HD" tvg-logo="https://iptvxcdn.ml/kinoxit.png" group-title="Movies", Кинохит HD
+https://imga.beetv.kz/btv/SWM/KinoH/KinoH.m3u8
+#EXTINF: -1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="https://iptvxcdn.ml/lubimoe-kino.png" group-title="Movies", Любимое кино
+https://imga.beetv.kz/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
+#EXTINF: -1 tvg-id="mir-seriala" tvg-name="Мир сериала" tvg-logo="https://iptvxcdn.ml/mir-seriala.png" group-title="Movies", Мир сериала
 https://imga.beetv.kz/btv/SWM/mir_seriala/mir_seriala.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="mosfilm" tvg-logo="https://iptvxcdn.ml/mosfilm.png" tvg-name="Мосфильм. Золотая коллекция",Мосфильм Золотая коллекция
+#EXTINF: -1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://iptvxcdn.ml/mosfilm.png" group-title="Movies", Мосфильм Золотая коллекция
 https://imga.beetv.kz/btv/SWM/mosfilm/mosfilm.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="feniks-plus-kino" tvg-logo="https://iptvxcdn.ml/feniks-plus-kino.png" tvg-name="Феникс+ Кино",Феникс+ Кино
+#EXTINF: -1 tvg-id="muzhskoe-kino" tvg-name="Мужское кино HD" tvg-logo="https://iptvxcdn.ml/muzhskoe-kino.png" group-title="Movies", Мужское кино HD
+https://imga.beetv.kz/btv/SWM/MuzhskoyeKinoHD/MuzhskoyeKinoHD.m3u8
+#EXTINF: -1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино HD" tvg-logo="https://iptvxcdn.ml/nashe-novoe-kino.png" group-title="Movies", Наше новое кино HD
+https://imga.beetv.kz/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino.m3u8
+#EXTINF: -1 tvg-id="nst" tvg-name="НСТ" tvg-logo="https://iptvxcdn.ml/nst.png" group-title="Movies", НСТ
+https://imga.beetv.kz/btv/SWM/HCT/HCT.m3u8
+#EXTINF: -1 tvg-id="rodnoe-kino" tvg-name="Родное кино" tvg-logo="https://iptvxcdn.ml/rodnoe-kino.png" group-title="Movies", Родное кино
+https://imga.beetv.kz/btv/SWM/rodnoe_kino/rodnoe_kino.m3u8
+#EXTINF: -1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="https://iptvxcdn.ml/russky-illuzion.png" group-title="Movies", Русский иллюзион
+https://imga.beetv.kz/btv/SWM/Russky-Illuzion_SWM/Russky-Illuzion_SWM.m3u8
+#EXTINF: -1 tvg-id="feniks-plus-kino" tvg-name="Феникс+ Кино" tvg-logo="https://iptvxcdn.ml/feniks-plus-kino.png" group-title="Movies", Феникс+ Кино
 https://imga.beetv.kz/btv/SWM/phoenix/phoenix.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="plan-b" tvg-logo="https://iptvxcdn.ml/plan-b.png" tvg-name="Plan B",Plan B
-https://imga.beetv.kz/btv/SWM/plan_b/plan_b.m3u8
+#EXTINF: -1 tvg-id="balapan" tvg-name="Balapan" tvg-logo="https://iptvxcdn.ml/balapan.png" group-title="Kids", Balapan
+https://imga.beetv.kz/btv/SWM/Balapan_HD/Balapan_HD.m3u8
+#EXTINF: -1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://iptvxcdn.ml/boomerang.png" group-title="Kids", Boomerang
+https://imga.beetv.kz/btv/SWM/Boomerang/Boomerang.m3u8
+#EXTINF: -1 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="https://iptvxcdn.ml/cartoon-network.png" group-title="Kids", Cartoon Network
+https://imga.beetv.kz/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+#EXTINF: -1 tvg-id="gulli-girl" tvg-name="Gulli Girl" tvg-logo="https://iptvxcdn.ml/gulli-girl.png" group-title="Kids", Gulli Girl
+https://imga.beetv.kz/btv/SWM/Guilli/Guilli.m3u8
+#EXTINF: -1 tvg-id="nick-jr" tvg-name="Nick Jr" tvg-logo="https://iptvxcdn.ml/nick-jr.png" group-title="Kids", Nick Jr
+https://imga.beetv.kz/btv/icon/Nick_Jr/Nick_Jr.m3u8
+#EXTINF: -1 tvg-id="nickelodeon-cis" tvg-name="Nickelodeon KZ" tvg-logo="https://iptvxcdn.ml/nickelodeon.png" group-title="Kids", Nickelodeon KZ
+https://imga.beetv.kz/btv/SWM/Nikelodeon/Nikelodeon.m3u8
+#EXTINF: -1 tvg-id="nickelodeon-cis" tvg-name="Nickelodeon" tvg-logo="https://iptvxcdn.ml/nickelodeon.png" group-title="Kids", Nickelodeon
+https://imga.beetv.kz/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+#EXTINF: -1 tvg-id="nicktoons" tvg-name="Nicktoons" tvg-logo="https://iptvxcdn.ml/nicktoons.png" group-title="Kids", Nicktoons
+https://imga.beetv.kz/btv/SWM/nicktoons/nicktoons.m3u8
+#EXTINF: -1 tvg-id="tiji" tvg-name="TiJi KZ" tvg-logo="https://iptvxcdn.ml/tiji.png" group-title="Kids", TiJi KZ
+https://edge02.beetv.kz/btv/SWM/TiJi_KZ/TiJi_KZ.m3u8
+#EXTINF: -1 tvg-id="tiji" tvg-name="TiJi" tvg-logo="https://iptvxcdn.ml/tiji.png" group-title="Kids", TiJi
+https://imga.beetv.kz/btv/SWM/TiJi_Alt_SWM/TiJi_Alt_SWM.m3u8
+#EXTINF: -1 tvg-id="v-gostiax-u-skazki" tvg-name="В гостях у сказки" tvg-logo="https://iptvxcdn.ml/v-gostiax-u-skazki.png" group-title="Kids", В гостях у сказки
+https://imga.beetv.kz/btv/SWM/U_Skazki/U_Skazki.m3u8
+#EXTINF: -1 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="https://iptvxcdn.ml/detsky-mir.png" group-title="Kids", Детский мир
+https://imga.beetv.kz/btv/SWM/DetskyMir/DetskyMir.m3u8
+#EXTINF: -1 tvg-id="ginger-hd" tvg-name="Капитан Фантастика HD" tvg-logo="https://iptvxcdn.ml/ginger-hd.png" group-title="Kids", Капитан Фантастика HD
+https://imga.beetv.kz/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
+#EXTINF: -1 tvg-id="karusel-int" tvg-name="Карусель" tvg-logo="https://iptvxcdn.ml/karusel.png" group-title="Kids", Карусель
+https://imga.beetv.kz/btv/SWM/Karusel/Karusel.m3u8
+#EXTINF: -1 tvg-id="mult" tvg-name="Мульт" tvg-logo="https://iptvxcdn.ml/mult.png" group-title="Kids", Мульт
+https://imga.beetv.kz/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF: -1 tvg-id="o_" tvg-name="О!" tvg-logo="https://iptvxcdn.ml/o_.png" group-title="Kids", О!
+https://imga.beetv.kz/btv/SWM/O/O.m3u8
+#EXTINF: -1 tvg-id="ryzhy" tvg-name="Рыжий" tvg-logo="https://iptvxcdn.ml/ryzhy.png" group-title="Kids", Рыжий
+https://imga.beetv.kz/btv/SWM/Ryzhyi/Ryzhyi.m3u8
+#EXTINF: -1 tvg-id="sts-kids-hd" tvg-name="СТС Kids" tvg-logo="https://iptvxcdn.ml/sts-kids-hd.png" group-title="Kids", СТС Kids
+https://imga.beetv.kz/btv/icon/CTC_kids/CTC_kids.m3u8
+#EXTINF: -1 tvg-id="malysh" tvg-name="СуперГерои" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/super-heroes.png" group-title="Kids", СуперГерои
+https://imga.beetv.kz/btv/SWM/supergeroi/supergeroi.m3u8
+#EXTINF: -1 tvg-id="detsky" tvg-name="Уникум" tvg-logo="https://iptvxcdn.ml/unikum.png" group-title="Kids", Уникум
+https://imga.beetv.kz/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="start-air" tvg-logo="https://iptvxcdn.ml/start-air.png" tvg-name="START Air",START Air
-https://imga.beetv.kz/btv/SWM/start_air_hd/start_air.m3u8
+#EXTINF: -1 tvg-id="gakku" tvg-name="Gakku" tvg-logo="https://iptvxcdn.ml/gakku.png" group-title="Music", Gakku
+https://imga.beetv.kz/btv/SWM/SWM_Gakku/SWM_Gakku.m3u8
+#EXTINF: -1 tvg-id="muzzone" tvg-name="MuzZone" tvg-logo="https://iptvxcdn.ml/muzzone.png" group-title="Music", MuzZone
+https://imga.beetv.kz/btv/SWM/Muzzone/Muzzone.m3u8
+#EXTINF: -1 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="https://iptvxcdn.ml/mcm-top.png" group-title="Music", MCM Top
+https://imga.beetv.kz/btv/SWM/MCM/MCM.m3u8
+#EXTINF: -1 tvg-id="mezzo" tvg-name="Mezzo" tvg-logo="https://iptvxcdn.ml/mezzo.png" group-title="Music", Mezzo
+https://imga.beetv.kz/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
+#EXTINF: -1 tvg-id="mtv-russia" tvg-name="MTV Russia" tvg-logo="https://iptvxcdn.ml/mtv-europe.png" group-title="Music", MTV Russia
+https://imga.beetv.kz/btv/SWM/MTV_Russia/MTV_Russia.m3u8
+#EXTINF: -1 tvg-id="muztv" tvg-name="Муз ТВ" tvg-logo="https://iptvxcdn.ml/muztv.png" group-title="Music", Муз ТВ"
+https://imga.beetv.kz/btv/SWM/Muz_Tv/Muz_Tv.m3u8
+#EXTINF: -1 tvg-id="muzyka-pervogo" tvg-name="Музыка Первого" tvg-logo="https://iptvxcdn.ml/muzyka-pervogo.png" group-title="Music", Музыка Первого
+https://imga.beetv.kz/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo.m3u8
+#EXTINF: -1 tvg-id="tnt-music" tvg-name="ТНТ Music" tvg-logo="https://iptvxcdn.ml/tnt-music.png" group-title="Music", ТНТ Music
+https://imga.beetv.kz/btv/SWM/Tnt_music/Tnt_music.m3u8
+#EXTINF: -1 tvg-id="toy-duman" tvg-name="Той Думан" tvg-logo="https://iptvxcdn.ml/toy-duman.png" group-title="Music", Той Думан
+https://imga.beetv.kz/btv/SWM/Toy_Duman/Toy_Duman.m3u8
+#EXTINF: -1 tvg-id="shanson-tv" tvg-name="Шансон ТВ" tvg-logo="https://iptvxcdn.ml/shanson-tv.png" group-title="Music", Шансон ТВ
+https://imga.beetv.kz/btv/SWM/Shanson_TV/Shanson_TV.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="start-world" tvg-logo="https://iptvxcdn.ml/start-world.png" tvg-name="START World",START World
-https://imga.beetv.kz/btv/SWM/start_world_hd/start_world.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="tv1000-action" tvg-logo="https://iptvxcdn.ml/tv1000-action.png" tvg-name="TV1000 Action",TV1000 Action
-https://imga.beetv.kz/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="tv1000" tvg-logo="https://iptvxcdn.ml/tv1000.png" tvg-name="	TV1000",TV1000
-https://imga.beetv.kz/btv/SWM/tv1000hd/tv1000hd.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvxcdn.ml/tv1000-russkoe-kino.png" tvg-name="TV1000 Русское кино",TV1000 Русское кино
-https://imga.beetv.kz/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="domkino-premium" tvg-logo="https://iptvxcdn.ml/domkino-premium.png" tvg-name="Дом кино Премиум HD",Дом кино Премиум HD
-https://imga.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="dorama" tvg-logo="https://iptvxcdn.ml/dorama.png" tvg-name="Дорама HD",Дорама HD
-https://imga.beetv.kz/btv/SWM/Dorama/Dorama.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="evrokino" tvg-logo="https://iptvxcdn.ml/evrokino.png" tvg-name="Еврокино",Еврокино
-https://imga.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="nst" tvg-logo="https://iptvxcdn.ml/nst.png" tvg-name="НСТ",НСТ
-https://imga.beetv.kz/btv/SWM/HCT/HCT.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="hollywood" tvg-logo="https://iptvxcdn.ml/hollywood.png" tvg-name="Hollywood",Hollywood
-https://imga.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="indiyskoe-kino" tvg-logo="https://iptvxcdn.ml/indiyskoe-kino.png" tvg-name="Индийское кино",Индийское кино
-https://imga.beetv.kz/btv/SWM/Indian_kino/Indian_kino.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinouzhas" tvg-logo="https://iptvxcdn.ml/kinouzhas.png" tvg-name="Киноужас",Киноужас
-https://imga.beetv.kz/btv/SWM/KinoUzhas/KinoUzhas.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinokomedia" tvg-logo="https://iptvxcdn.ml/kinokomedia.png" tvg-name="Кинокомедия HD",Кинокомедия HD
-https://imga.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="kinomiks" tvg-logo="https://iptvxcdn.ml/kinomiks.png" tvg-name="Киномикс HD",Киномикс HD
-https://imga.beetv.kz/btv/SWM/KinomixHD/KinomixHD.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="lubimoe-kino" tvg-logo="https://iptvxcdn.ml/lubimoe-kino.png" tvg-name="Любимое кино",Любимое кино
-https://imga.beetv.kz/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="russky-illuzion" tvg-logo="https://iptvxcdn.ml/russky-illuzion.png" tvg-name="Русский иллюзион",Русский иллюзион
-https://imga.beetv.kz/btv/SWM/Russky-Illuzion_SWM/Russky-Illuzion_SWM.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="sony-scifi" tvg-logo="https://iptvxcdn.ml/sony-scifi.png" tvg-name="Sci-Fi",Sci-Fi
-https://imga.beetv.kz/btv/SWM/Sci-Fi/Sci-Fi.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="zee-tv" tvg-logo="https://iptvxcdn.ml/zee-tv.png" tvg-name="Zee TV",Zee TV"
-https://imga.beetv.kz/btv/SWM/Zee_TV_HD/Zee_TV.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-id="rodnoe-kino" tvg-logo="https://iptvxcdn.ml/rodnoe-kino.png" tvg-name="Родное кино",Родное кино
-https://imga.beetv.kz/btv/SWM/rodnoe_kino/rodnoe_kino.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="eureka-hd" tvg-logo="https://iptvxcdn.ml/kosmichesky.png" tvg-name="Первый Космический HD",Первый Космический HD
-https://imga.beetv.kz/btv/SWM/1_kosmo_HD/1_kosmo.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="pervy-vegetariansky" tvg-logo="https://iptvxcdn.ml/pervy-vegetariansky.png" tvg-name="Первый вегетарианский",Первый вегетарианский
-https://imga.beetv.kz/btv/SWM/1_vegan_hd/1_vegan.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="no_epg" tvg-logo="https://qazaqiptv.github.io/picons/beeplay.png" tvg-name="BeePlay",BeePlay
+#EXTINF: -1 tvg-id="animal-planet" tvg-name="Animal Planet HD" tvg-logo="https://iptvxcdn.ml/animal-planet.png" group-title="Education", Animal Planet HD
+https://imga.beetv.kz/btv/SWM/animal_hd/animal_hd.m3u8
+#EXTINF: -1 tvg-id="no_epg" tvg-name="BeePlay" tvg-logo="https://qazaqiptv.github.io/picons/beeplay.png" group-title="Education", BeePlay
 https://imga.beetv.kz/btv/SWM/gs/gs.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="english-club-tv" tvg-logo="https://iptvxcdn.ml/englishclub.png" tvg-name="English Club TV",English Club TV
+#EXTINF: -1 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="https://iptvxcdn.ml/discovery-channel.png" group-title="Education", Discovery Channel
+https://imga.beetv.kz/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF: -1 tvg-id="english-club-tv" tvg-name="English Club TV" tvg-logo="https://iptvxcdn.ml/englishclub.png" group-title="Education", English Club TV
 https://imga.beetv.kz/btv/SWM/English_Club_TV/English_Club_TV.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="glazami-turista" tvg-logo="https://iptvxcdn.ml/glazami-turista.png" tvg-name="Глазами туриста HD",Глазами туриста HD
-https://imga.beetv.kz/btv/SWM/Glazamy_Turista_HD/Glazamy_Turista.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="history-ru" tvg-logo="https://iptvxcdn.ml/history-hd.png" tvg-name="History HD",History HD
-https://imga.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="kuxnia-tv" tvg-logo="https://iptvxcdn.ml/kuhnia.png" tvg-name="Кухня ТВ",Кухня ТВ
-https://imga.beetv.kz/btv/SWM/Kuhna_HD/Kuhna.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="nat-geo-wild" tvg-logo="https://iptvxcdn.ml/nat-geo-wild.png" tvg-name="Nat Geo Wild HD",Nat Geo Wild HD
-https://imga.beetv.kz/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="national-geographic" tvg-logo="https://iptvxcdn.ml/national-geographic.png" tvg-name="National Geographic HD",National Geographic HD
-https://imga.beetv.kz/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="moya-planeta" tvg-logo="https://iptvxcdn.ml/moya-planeta.png" tvg-name="Планета HD",Планета HD
-https://imga.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="pobeda" tvg-logo="https://iptvxcdn.ml/pobeda.png" tvg-name="Победа",Победа
-https://imga.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="texno-24" tvg-logo="https://iptvxcdn.ml/texno-24.png" tvg-name="Техно 24",Техно 24
-https://imga.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvxcdn.ml/zagorodnaya-zhizn.png" tvg-name="Загородная жизнь",Загородная жизнь
-https://imga.beetv.kz/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="dacha" tvg-logo="https://iptvxcdn.ml/dacha.png" tvg-name="Дача HD",Дача HD
-https://imga.beetv.kz/btv/SWM/dacha_hd/dacha.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="dikaya-oxota-hd" tvg-logo="https://iptvxcdn.ml/dikaya-oxota-hd.png" tvg-name="Дикая охота HD",Дикая охота HD
-https://imga.beetv.kz/btv/SWM/dikaya_ohota_hd/dikaya_ohota.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="dikaya-rybalka-hd" tvg-logo="https://iptvxcdn.ml/dikaya-rybalka-hd.png" tvg-name="Дикая рыбалка HD",Дикая рыбалка HD
-https://imga.beetv.kz/btv/SWM/dikaya_rybalka_hd/dikaya_rybalka.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="rybalka-i-oxota" tvg-logo="https://iptvxcdn.ml/rybalka-i-oxota.png" tvg-name="Рыбалка и охота",Рыбалка и охота
-https://imga.beetv.kz/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="discovery-channel" tvg-logo="https://iptvxcdn.ml/discovery-channel.png" tvg-name="Discovery Channel",Discovery Channel
-https://imga.beetv.kz/btv/SWM/discovery_hd/discovery.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="mir-uvlecheniy" tvg-logo="https://iptvxcdn.ml/mir-uvlecheniy.png" tvg-name="Кто Куда",Кто Куда
-https://imga.beetv.kz/btv/SWM/mir_uvlecheniy/mir_uvlecheniy.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="oruzhie" tvg-logo="https://iptvxcdn.ml/oruzhie.png" tvg-name="Оружие",Оружие
-https://imga.beetv.kz/btv/SWM/oruzhie/oruzhie.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="galaxy-tv" tvg-logo="https://iptvxcdn.ml/galaxy-tv.png" tvg-name="Тайны Галактики",Тайны Галактики
-https://imga.beetv.kz/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="viasat-explore" tvg-logo="https://iptvxcdn.ml/viasat-explore.png" tvg-name="Viasat Explore",Viasat Explore
-https://imga.beetv.kz/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="viasat-history" tvg-logo="https://iptvxcdn.ml/viasat-history.png" tvg-name="Viasat History",Viasat History
-https://imga.beetv.kz/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="viasat-nature" tvg-logo="https://iptvxcdn.ml/viasat-nature.png" tvg-name="Viasat Nature",Viasat Nature
-https://imga.beetv.kz/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="domashnie-zhivotnye" tvg-logo="https://iptvxcdn.ml/domashnie-zhivotnye.png" tvg-name="Домашние животные",Домашние животные
-https://imga.beetv.kz/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="h2" tvg-logo="https://iptvxcdn.ml/h2.png" tvg-name="History 2",History 2
+#EXTINF: -1 tvg-id="h2" tvg-name="History 2" tvg-logo="https://iptvxcdn.ml/h2.png" group-title="Education", History 2
 https://imga.beetv.kz/btv/SWM/History2HD/History2HD.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="https://iptvxcdn.ml/oxotnik-i-rybolov-hd.png" tvg-name="Охотник и рыболов HD",Охотник и рыболов HD
-https://imga.beetv.kz/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="psixologia-21" tvg-logo="https://iptvxcdn.ml/psixologia-21.png" tvg-name="Психология 21",Психология 21
-https://imga.beetv.kz/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="kultura" tvg-logo="https://iptvxcdn.ml/kultura.png" tvg-name="Россия Культура",Россия Культура
-https://imga.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="prikluchenia-hd" tvg-logo="https://iptvxcdn.ml/prikluchenia-hd.png" tvg-name="Приключения HD",Приключения HD
-https://imga.beetv.kz/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="voprosy-i-otvety" tvg-logo="https://iptvxcdn.ml/voprosy-i-otvety.png" tvg-name="Вопросы и ответы",Вопросы и ответы
-https://imga.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="zoopark" tvg-logo="https://iptvxcdn.ml/zoopark.png" tvg-name="ZooПарк",ZooПарк
+#EXTINF: -1 tvg-id="history-ru" tvg-name="History HD" tvg-logo="https://iptvxcdn.ml/history-hd.png" group-title="Education", History HD
+https://imga.beetv.kz/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF: -1 tvg-id="nat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://iptvxcdn.ml/nat-geo-wild.png" group-title="Education", Nat Geo Wild HD
+https://imga.beetv.kz/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF: -1 tvg-id="national-geographic" tvg-name="National Geographic HD" tvg-logo="https://iptvxcdn.ml/national-geographic.png" group-title="Education", National Geographic HD
+https://imga.beetv.kz/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF: -1 tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="https://iptvxcdn.ml/viasat-explore.png" group-title="Education", Viasat Explore
+https://imga.beetv.kz/btv/SWM/viasatexplorerhd/viasatexplorerhd.m3u8
+#EXTINF: -1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://iptvxcdn.ml/viasat-history.png" group-title="Education", Viasat History
+https://imga.beetv.kz/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
+#EXTINF: -1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://iptvxcdn.ml/viasat-nature.png" group-title="Education", Viasat Nature
+https://imga.beetv.kz/btv/SWM/viasatnaturehd/viasatnaturehd.m3u8
+#EXTINF: -1 tvg-id="zoopark" tvg-name="ZooПарк" tvg-logo="https://iptvxcdn.ml/zoopark.png" group-title="Education", ZooПарк
 https://imga.beetv.kz/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="animal-planet" tvg-logo="https://iptvxcdn.ml/animal-planet.png" tvg-name="Animal Planet HD",Animal Planet HD
-https://imga.beetv.kz/btv/SWM/animal_hd/animal.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="da-vinci" tvg-logo="https://iptvxcdn.ml/da-vinci.png" tvg-name="Да Винчи",Да Винчи
+#EXTINF: -1 tvg-id="voprosy-i-otvety" tvg-name="Вопросы и ответы" tvg-logo="https://iptvxcdn.ml/voprosy-i-otvety.png" group-title="Education", Вопросы и ответы
+https://imga.beetv.kz/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
+#EXTINF: -1 tvg-id="glazami-turista" tvg-name="Глазами туриста HD" tvg-logo="https://iptvxcdn.ml/glazami-turista.png" group-title="Education", Глазами туриста HD
+https://imga.beetv.kz/btv/SWM/Glazamy_Turista_HD/Glazamy_Turista_HD.m3u8
+#EXTINF: -1 tvg-id="da-vinci" tvg-name="Да Винчи" tvg-logo="https://iptvxcdn.ml/da-vinci.png" group-title="Education", Да Винчи
 https://imga.beetv.kz/btv/SWM/davinchi/davinchi.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="kto-est-kto" tvg-logo="https://iptvxcdn.ml/kto-est-kto.png" tvg-name="Кто есть кто",Кто есть кто
+#EXTINF: -1 tvg-id="dacha" tvg-name="Дача HD" tvg-logo="https://iptvxcdn.ml/dacha.png" group-title="Education", Дача HD
+https://imga.beetv.kz/btv/SWM/dacha_hd/dacha_hd.m3u8
+#EXTINF: -1 tvg-id="dikaya-oxota-hd" tvg-name="Дикая охота HD" tvg-logo="https://iptvxcdn.ml/dikaya-oxota-hd.png" group-title="Education", Дикая охота HD
+https://imga.beetv.kz/btv/SWM/dikaya_ohota_hd/dikaya_ohota_hd.m3u8
+#EXTINF: -1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="https://iptvxcdn.ml/dikaya-rybalka-hd.png" group-title="Education", Дикая рыбалка HD
+https://imga.beetv.kz/btv/SWM/dikaya_rybalka_hd/dikaya_rybalka_hd.m3u8
+#EXTINF: -1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние животные" tvg-logo="https://iptvxcdn.ml/domashnie-zhivotnye.png" group-title="Education", Домашние животные
+https://imga.beetv.kz/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
+#EXTINF: -1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная жизнь" tvg-logo="https://iptvxcdn.ml/zagorodnaya-zhizn.png" group-title="Education", Загородная жизнь
+https://imga.beetv.kz/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
+#EXTINF: -1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="https://iptvxcdn.ml/kto-est-kto.png" group-title="Education", Кто есть кто
 https://imga.beetv.kz/btv/SWM/ktoestkto/ktoestkto.m3u8
-
-#EXTINF:-1 group-title="Education" tvg-id="centralnoye-tv" tvg-logo="https://iptvxcdn.ml/centralnoye-tv.png" tvg-name="Центральное телевидение",Центральное телевидение
+#EXTINF: -1 tvg-id="mir-uvlecheniy" tvg-name="Кто Куда" tvg-logo="https://iptvxcdn.ml/mir-uvlecheniy.png" group-title="Education", Кто Куда
+https://imga.beetv.kz/btv/SWM/mir_uvlecheniy/mir_uvlecheniy.m3u8
+#EXTINF: -1 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="https://iptvxcdn.ml/kuhnia.png" group-title="Education", Кухня ТВ
+https://imga.beetv.kz/btv/SWM/Kuhna_HD/Kuhna_HD.m3u8
+#EXTINF: -1 tvg-id="oruzhie" tvg-name="Оружие" tvg-logo="https://iptvxcdn.ml/oruzhie.png" group-title="Education", Оружие
+https://imga.beetv.kz/btv/SWM/oruzhie/oruzhie.m3u8
+#EXTINF: -1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов HD" tvg-logo="https://iptvxcdn.ml/oxotnik-i-rybolov-hd.png" group-title="Education", Охотник и рыболов HD
+https://imga.beetv.kz/btv/SWM/Ohotnik_i_ribolov/Ohotnik_i_ribolov.m3u8
+#EXTINF: -1 tvg-id="pervy-vegetariansky" tvg-name="Первый вегетарианский" tvg-logo="https://iptvxcdn.ml/pervy-vegetariansky.png" group-title="Education", Первый вегетарианский
+https://imga.beetv.kz/btv/SWM/1_vegan_hd/1_vegan_hd.m3u8
+#EXTINF: -1 tvg-id="eureka-hd" tvg-name="Первый Космический HD" tvg-logo="https://iptvxcdn.ml/kosmichesky.png" group-title="Education", Первый Космический HD
+https://imga.beetv.kz/btv/SWM/1_kosmo_HD/1_kosmo_HD.m3u8
+#EXTINF: -1 tvg-id="moya-planeta" tvg-name="Планета HD" tvg-logo="https://iptvxcdn.ml/moya-planeta.png" group-title="Education", Планета HD
+https://imga.beetv.kz/btv/SWM/PlanetaHD/PlanetaHD.m3u8
+#EXTINF: -1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="https://iptvxcdn.ml/pobeda.png" group-title="Education", Победа
+https://imga.beetv.kz/btv/SWM/Pobeda/Pobeda.m3u8
+#EXTINF: -1 tvg-id="prikluchenia-hd" tvg-name="Приключения HD" tvg-logo="https://iptvxcdn.ml/prikluchenia-hd.png" group-title="Education", Приключения HD
+https://imga.beetv.kz/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
+#EXTINF: -1 tvg-id="psixologia-21" tvg-name="Психология 21" tvg-logo="https://iptvxcdn.ml/psixologia-21.png" group-title="Education", Психология 21
+https://imga.beetv.kz/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
+#EXTINF: -1 tvg-id="kultura" tvg-name="Россия Культура" tvg-logo="https://iptvxcdn.ml/kultura.png" group-title="Education", Россия Культура
+https://imga.beetv.kz/btv/icon/RussiaK/RussiaK.m3u8
+#EXTINF: -1 tvg-id="rybalka-i-oxota" tvg-name="Рыбалка и охота" tvg-logo="https://iptvxcdn.ml/rybalka-i-oxota.png" group-title="Education", Рыбалка и охота
+https://imga.beetv.kz/btv/icon/Ohota_i_rybalka/Ohota_i_rybalka.m3u8
+#EXTINF: -1 tvg-id="galaxy-tv" tvg-name="Тайны Галактики" tvg-logo="https://iptvxcdn.ml/galaxy-tv.png" group-title="Education", Тайны Галактики
+https://imga.beetv.kz/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+#EXTINF: -1 tvg-id="texno-24" tvg-name="Техно 24" tvg-logo="https://iptvxcdn.ml/texno-24.png" group-title="Education", Техно 24
+https://imga.beetv.kz/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+#EXTINF: -1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="https://iptvxcdn.ml/centralnoye-tv.png" group-title="Education", Центральное телевидение
 https://imga.beetv.kz/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
