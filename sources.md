@@ -44,6 +44,8 @@ layout: default
 * Saryarqa: [https://kartv.kz/kz/online](https://kartv.kz/kz/online)
 * Semei: [https://semeytv.kz/kz/online](https://semeytv.kz/kz/online)
 * МТРК Петропавл: [https://mtrk.kz/kz/on-air-online/](https://mtrk.kz/kz/on-air-online/)
+* Irbis: [https://irbistv.kz/](https://irbistv.kz/)
+* Aqsham: [http://aqsham.tv/?page_id=66](http://aqsham.tv/?page_id=66)
 
 **Радио**
 * Qazaq Radiosy: [https://qazradio.fm/kz/](https://qazradio.fm/kz/)
