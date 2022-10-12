@@ -174,5 +174,5 @@ https://icecast.luxfm.kz/luxfm
 #EXTINF:-1 channel-id="58" tvg-id="rus-radio-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rus-radio-kz.png" group-title="Radio" tvg-name="Русское радио Азия",Русское радио Азия
 https://rusradio.cdnqb.net/stream
 
-#EXTINF:-1 channel-id="59" tvg-id="qazaq-iptv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaq-iptv.png" group-title="Info" tvg-name="Info",Info
+#EXTINF:-1 channel-id="59" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaq-iptv.png" group-title="Info" tvg-name="aidoseg.github.io/qazaqiptv",aidoseg.github.io/qazaqiptv
 https://aidoseg.github.io/qazaqiptv/info.m3u8
