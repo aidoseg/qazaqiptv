@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 channel-id="1" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaq-radiosy.png" group-title="Radio" tvg-name="Qazaq Radiosy",Qazaq Radiosy
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+
+#EXTINF:-1 channel-id="2" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/astanafm.png" group-title="Radio" tvg-name="Astana Radiosy",Astana Radiosy
+https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
+
+#EXTINF:-1 channel-id="3" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/shalqarfm.png" group-title="Radio" tvg-name="Shalqar Radiosy",Shalqar Radiosy
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+
+#EXTINF:-1 channel-id="4" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/classicfm.png" group-title="Radio" tvg-name="Radio Classic",Radio Classic
+https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
+
+#EXTINF:-1 channel-id="5" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/zhana-fm.png" group-title="Radio" tvg-name="Жаңа FM",Жаңа FM
+https://live.zhanafm.kz:8443/zhanafm_onair
+
+#EXTINF:-1 channel-id="6" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/love-radio.png" group-title="Radio" tvg-name="Love Radio",Love Radio
+https://stream.gakku.tv:8443/love128.mp3
+
+#EXTINF:-1 channel-id="7" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/radio-dacha.png" group-title="Radio" tvg-name="Радио Дaча",Радио Дача
+https://stream.gakku.tv:8443/dacha
+
+#EXTINF:-1 channel-id="8" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/toiduman.png" group-title="Radio" tvg-name="Той Думан",Той Думан
+https://stream.gakku.tv:8443/live.mp3
+
+#EXTINF:-1 channel-id="9" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/europa-plus-radio.png" group-title="Radio" tvg-name="Europa Plus",Europa Plus
+https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
+
+#EXTINF:-1 channel-id="10" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/energy-fm.png" group-title="Radio" tvg-name="Energy FM",Energy FM
+http://89.219.34.117:8008/NEWENERGY_256k
+
+#EXTINF:-1 channel-id="11" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/tengrifm.png" group-title="Radio" tvg-name="Tengri FM",Tengri FM
+http://player.tengrifm.kz:8000/tengrifm
+
+#EXTINF:-1 channel-id="12" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/zhuldyz-fm.png" group-title="Radio" tvg-name="Zhuldyz FM",Zhuldyz FM
+http://player.tengrifm.kz:8000/zhulduz
+
+#EXTINF:-1 channel-id="13" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/retro-fm-kz.png" group-title="Radio" tvg-name="Ретро FM Qazaqstan",Ретро FM Qazaqstan
+http://player.tengrifm.kz:8000/vostokfm
+
+#EXTINF:-1 channel-id="14" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/radio-ns-fm.png" group-title="Radio" tvg-name="Радио N-S",Радио N-S
+https://icecast.ns.kz/radions
+
+#EXTINF:-1 channel-id="15" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/autoradio.png" group-title="Radio" tvg-name="Авторадио KZ",Авторадио KZ
+http://95.56.234.40:8080/AVTORADIO_AAC
+
+#EXTINF:-1 channel-id="16" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/lux-fm.png" group-title="Radio" tvg-name="Lux FM",Lux FM
+https://icecast.luxfm.kz/luxfm
+
+#EXTINF:-1 channel-id="17" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rus-radio-kz.png" group-title="Radio" tvg-name="Русское радио Азия",Русское радио Азия
+https://rusradio.cdnqb.net/stream
