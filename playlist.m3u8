@@ -15,7 +15,7 @@ https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 channel-id="5" tvg-id="el-arna" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/el-arna.png" group-title="National" tvg-name="El Arna",El Arna
 https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
 
-#EXTINF:-1 channel-id="6" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakh-tv.png" group-title="National" tvg-name="Qazaq TV",Qazaq TV
+#EXTINF:-1 channel-id="6" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jibek-joly-world.png" group-title="National" tvg-name="Qazaq TV",Qazaq TV
 https://ikomg3.s.llnwi.net/test123/master.m3u8
 
 #EXTINF:-1 channel-id="7" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jibek-joly.png" group-title="National" tvg-name="Jibek Joly",Jibek Joly
