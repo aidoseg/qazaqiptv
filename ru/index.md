@@ -7,6 +7,12 @@
 Ссылка на плейлист:
 [https://tiny.one/qazaqiptv](https://tiny.one/qazaqiptv)
 
+Только телеканалы:
+[https://tiny.one/qazaqtv](https://tiny.one/qazaqtv)
+
+Только радио:
+[https://tiny.one/qazaqradio](https://tiny.one/qazaqradio)
+
 Телепрограмма (EPG) в формате XMLTV: 
 [https://iptvx.one/EPG_LITE](https://iptvx.one/EPG_LITE)
 
