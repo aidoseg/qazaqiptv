@@ -7,6 +7,12 @@
 Плейлистке сілтеме:
 [https://tiny.one/qazaqiptv](https://tiny.one/qazaqiptv)
 
+Тек телеарналар плейлисті:
+[https://tiny.one/qazaqtv](https://tiny.one/qazaqtv)
+
+Тек радио плейлисті:
+[https://tiny.one/qazaqradio](https://tiny.one/qazaqradio)
+
 XMLTV форматтағы телебағдарлама (EPG):
 [https://iptvx.one/EPG_LITE](https://iptvx.one/EPG_LITE)
 
