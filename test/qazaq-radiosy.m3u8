@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_kazakh",URI="qazaq-radiosy-audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="qazaq_radiosy",URI="qazaq-radiosy-audio.m3u8"
+
+#EXT-X-STREAM-INF:RESOLUTION=1280x720",AUDIO="qazaq_radiosy"
 qazaq-radiosy-video.m3u8
