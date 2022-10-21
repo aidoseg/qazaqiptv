@@ -61,7 +61,7 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/playlist.m3u8
 
 #EXTINF:-1 channel-id="21" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazsport.png" group-title="Sport" tvg-name="QazSport 3",QazSport 3
-https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv3/playlist.m3u8
+https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 
 #EXTINF:-1 channel-id="22" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/insport.png" group-title="Sport" tvg-name="INSPORT",INSPORT
 https://live.insporttv.kz:30443/insport/nizh/chunks.m3u8
