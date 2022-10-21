@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
 
 #EXTINF:-1 channel-id="1" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png" group-title="National" tvg-name="Qazaqstan",Qazaqstan
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
 #EXTINF:-1 channel-id="2" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazakhstan.png" group-title="National" tvg-name="Qazaqstan International",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 
 #EXTINF:-1 channel-id="3" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/xabar.png" group-title="National" tvg-name="Хабар",Хабар
-https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/chunklist.m3u8
+https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/playlist.m3u8
 
 #EXTINF:-1 channel-id="4" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/xabar24.png" group-title="National" tvg-name="Хабар 24",Хабар 24
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
@@ -55,13 +55,13 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
 https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
 
 #EXTINF:-1 channel-id="19" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazsport.png" group-title="Sport" tvg-name="QazSport",QazSport
-https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/qazsporttv/qazsporttv_720/chunks.m3u8
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 #EXTINF:-1 channel-id="20" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazsport.png" group-title="Sport" tvg-name="QazSport 2",QazSport 2
-https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/qazsporttv2/qazsporttv2_720/chunks.m3u8
+https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/playlist.m3u8
 
 #EXTINF:-1 channel-id="21" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/kazsport.png" group-title="Sport" tvg-name="QazSport 3",QazSport 3
-https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/qazsporttv3/qazsporttv3_720/chunks.m3u8
+https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv3/playlist.m3u8
 
 #EXTINF:-1 channel-id="22" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/insport.png" group-title="Sport" tvg-name="INSPORT",INSPORT
 https://live.insporttv.kz:30443/insport/nizh/chunks.m3u8
