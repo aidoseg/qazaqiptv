@@ -111,9 +111,6 @@ https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 tvg-id="mtrk-petropavl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mtrk-petropavl.png" group-title="Regions" tvg-name="МТРК Петропавл",МТРК Петропавл
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
-#EXTINF:-1 tvg-id="irbis" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/irbis.png" group-title="Regions" tvg-name="Irbis",Irbis
-https://bl.invaitube.kz/media/playlist/api_free_6854f590d0e8376d55e42b7847d15336_hd/7_8d5c2b3e-bf0f-4355-b4c1-7d08316a6e42/live/1e76cdb18a926162d55965701f314cd9/4820535388.m3u8
-
 #EXTINF:-1 tvg-id="aqsham" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/aqsham.png" group-title="Regions" tvg-name="Aqsham",Aqsham
 http://aqsham.tv/webdav/1000/list.m3u8
 
