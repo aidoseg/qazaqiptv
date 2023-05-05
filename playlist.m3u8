@@ -105,6 +105,9 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-id="semei" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/semei.png" group-title="Regions" tvg-name="Semei",Semei
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 
+#EXTINF:-1 tvg-id="rika" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rika.png" group-title="Regions" tvg-name="Рика ТВ",Рика ТВ
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="mtrk-petropavl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mtrk.png" group-title="Regions" tvg-name="МТРК Петропавл",МТРК Петропавл
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
