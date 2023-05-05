@@ -36,9 +36,6 @@ https://31kz-streams.daitsuna.net/31kz/31kz/playlist.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/new.png" group-title="National" tvg-name="Новое телевидение",Новое телевидение
 https://cdn.beetv.kz/btv/live/hls/000001380.m3u8
 
-#EXTINF:-1 tvg-id="astana" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/astana.png" group-title="National" tvg-name="Astana",Astana
-https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty.png" group-title="National" tvg-name="Almaty TV",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 
