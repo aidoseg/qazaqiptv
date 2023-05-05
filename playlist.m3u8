@@ -39,7 +39,7 @@ https://cdn.beetv.kz/btv/live/hls/000001380.m3u8
 #EXTINF:-1 tvg-id="astana" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/astana.png" group-title="National" tvg-name="Astana",Astana
 https://6mwyl50nbll.a.trbcdn.net/livemaster/u7v3o_live-i59ya936e5f.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty-tv.png" group-title="National" tvg-name="Almaty TV",Almaty TV
+#EXTINF:-1 tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty.png" group-title="National" tvg-name="Almaty TV",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mir.png" group-title="National" tvg-name="Мир",Мир
@@ -110,9 +110,6 @@ https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 
 #EXTINF:-1 tvg-id="mtrk-petropavl" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mtrk.png" group-title="Regions" tvg-name="МТРК Петропавл",МТРК Петропавл
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
-
-#EXTINF:-1 tvg-id="aqsham" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/aqsham.png" group-title="Regions" tvg-name="Aqsham",Aqsham
-http://81.90.181.148/webdav/1000/list.m3u8
 
 #EXTINF:-1 tvg-id="qazaq-fm" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaq-radiosy.png" group-title="Radio" tvg-name="Qazaq Radiosy",Qazaq Radiosy
 https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
