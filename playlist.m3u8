@@ -57,6 +57,16 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/playlist.m3u8
 #EXTINF:-1 tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport.png" group-title="Sport" tvg-name="QazSport 3",QazSport 3
 https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/insport.png" group-title="Sport" tvg-name="InSport",InSport
+https://live.insporttv.kz:4023/insport/nizh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/intennis.png" group-title="Sport" tvg-name="InTennis",InTennis
+https://live.insporttv.kz:4023/insport/intennis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/inhockey.png" group-title="Sport" tvg-name="InHockey",InHockey
+https://live.insporttv.kz:4023/insport/inhockey/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="muzzone" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/muzzone.png" group-title="Music" tvg-name="MuzZone",MuzZone
 https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/playlist_dvr.m3u8
 
@@ -104,6 +114,9 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 
 #EXTINF:-1 tvg-id="semei" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/semei.png" group-title="Regions" tvg-name="Semei",Semei
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/aqsham.png" group-title="Regions" tvg-name="Aqsham",Aqsham Петропавл
+http://aqsham.tv/webdav/1000/list.m3u8
 
 #EXTINF:-1 tvg-id="rika" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rika.png" group-title="Regions" tvg-name="Рика ТВ",Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
