@@ -1,0 +1,35 @@
+name: JSON to XMLTV Conversion
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install xmltv
+
+      - name: Convert JSON to XMLTV
+        run: |
+          wget -O program_events.json "https://api.beetv.kz/v2/epg/program_events.json?&pivot_date=2023-06-28&channel_id=9a2ae28b-6f80-426f-b099-8399b6dabda0"
+          python -c 'import json, xmltv; print(xmltv.dumps(json.load(open("program_events.json"))))' > epg.xml
+          
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add epg.xml
+          git commit -m "Convert JSON to XMLTV"
+          git push
