@@ -1,4 +1,4 @@
-name: JSON to XMLTV Conversion Xabar 2
+name: JSON to XMLTV Conversion Xabar 3
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
       - name: Convert JSON to XMLTV
         run: |
           wget -O xabar.json "https://epg.iptvx.one/api/id/xabar.json"
-          python -c 'import xmltodict, json; print(xmltodict.unparse(json.load(open("xabar.json"))))' > epg.xml
+          python -c 'import xmltodict, json; print(xmltodict.unparse({"root": json.load(open("xabar.json"))}))' > epg.xml
           
       - name: Commit and push changes
         run: |
