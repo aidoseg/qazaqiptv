@@ -1,4 +1,4 @@
-name: JSON to XMLTV Conversion Xabar
+name: JSON to XMLTV Conversion Xabar 2
 
 on:
   push:
@@ -19,12 +19,12 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install json2xml
+        run: pip install xmltodict
 
       - name: Convert JSON to XMLTV
         run: |
           wget -O xabar.json "https://epg.iptvx.one/api/id/xabar.json"
-          python -c 'from json2xml import json2xml, readfromjson; print(json2xml.JsonToXml(readfromjson("xabar.json")).to_xml())' > epg.xml
+          python -c 'import xmltodict, json; print(xmltodict.unparse(json.load(open("xabar.json"))))' > epg.xml
           
       - name: Commit and push changes
         run: |
