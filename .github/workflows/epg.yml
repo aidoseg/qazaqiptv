@@ -19,12 +19,12 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install json2xml
+        run: pip install xmltv
 
       - name: Convert JSON to XMLTV
         run: |
-          wget -O program_events.json "https://api.beetv.kz/v2/epg/program_events.json?&pivot_date=2023-06-28&channel_id=9a2ae28b-6f80-426f-b099-8399b6dabda0"
-          python -c 'from json2xml import json2xml, readfromjson; print(json2xml.JsonToXml(readfromjson("program_events.json")).to_xml())' > epg.xml
+          wget -O xabar.json "https://epg.iptvx.one/api/id/xabar.json"
+          python -c 'import json, xmltv; print(xmltv.dumps(json.load(open("xabar.json"))))' > epg.xml
           
       - name: Commit and push changes
         run: |
