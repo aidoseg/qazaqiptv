@@ -60,10 +60,10 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport.png",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport.png",QazSport 2
+#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport2.png",QazSport 2
 https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport.png",QazSport 3
+#EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport3.png",QazSport 3
 https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/insport.png",InSport
