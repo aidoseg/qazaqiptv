@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/aidoseg/epg/main/epgm.xml" 
+#EXTM3U url-tvg="https://github.com/aidoseg/epg/raw/main/epgm.xml.gz" 
 
 #EXTINF:0 group-title="National" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaqstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
