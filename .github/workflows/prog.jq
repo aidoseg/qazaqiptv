@@ -1,0 +1,1 @@
+.ch_id as $ch_id | .ch_programme[]|{ title: .title, start: .start, description: .description, category: .category} | $ch_id+"#", .title+"#", .start+"#", if .description=="" then "описание отсутствует" else .description end +"#", if .category=="" then "без категории" else .category end ,"" | @html  
