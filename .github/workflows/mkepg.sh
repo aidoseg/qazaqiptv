@@ -1,6 +1,6 @@
 #!/bin/bash
 rm *.json
-wget --no-check-certificate --rejected-log=wget.log -i ch2.txt
+wget --no-check-certificate --rejected-log=wget.log -i qazaqiptv.txt
 if [ -e channels.xml ]; then
 	echo "File for channels exists, skeeping...";
 else 
