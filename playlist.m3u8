@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/aidoseg/epg/main/epgm.xml" 
 
 #EXTINF:0 group-title="National" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaqstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
@@ -41,12 +41,6 @@ https://cdn.beetv.kz/btv/live/hls/000001380.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty.png",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-
-#EXTINF:0 group-title="National" tvg-id="mir" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mir.png",Мир
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:0 group-title="National" tvg-id="mir-24" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/mir24.png",Мир 24
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="atameken-business" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/atameken.png",Atameken Business Channel
 https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
