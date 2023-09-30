@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/aidoseg/epg/raw/main/epgm.xml.gz" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/aidoseg/epg/main/epgm.xml.gz" 
 
 #EXTINF:0 group-title="National" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaqstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
@@ -7,13 +7,13 @@ https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="xabar" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/xabar.png",Хабар
-https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/playlist.m3u8
+https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/24.png",Хабар 24
-https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="el-arna" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/elarna.png",El Arna
-https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
+https://elarna-live.cdnvideo.ru/elarna-srt/elarna-srt-2-overlay/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jj.png",Jibek Joly
 https://jjtv-stream.qazcdn.com/jjtv/jjtv/playlist.m3u8
@@ -36,9 +36,6 @@ https://stream.tv7.kz/hls/stream.m3u8
 #EXTINF:0 group-title="National" tvg-id="31-kanal-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/31.png",31 канал
 https://31kz-streams.daitsuna.net/31kz/31kz/playlist.m3u8
 
-#EXTINF:0 group-title="National" tvg-id="novoe-televidenie" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/new.png",Новое телевидение
-https://cdn.beetv.kz/btv/live/hls/000001380.m3u8
-
 #EXTINF:0 group-title="National" tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/almaty.png",Almaty TV
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 
@@ -46,7 +43,7 @@ https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="muzzone" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/muzzone.png",MuzZone
-https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/playlist_dvr.m3u8
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone/playlist_dvr.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="balapan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/balapan.png",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
