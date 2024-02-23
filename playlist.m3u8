@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/aidoseg/epg/main/epgm.xml.gz" 
+#EXTM3U url-tvg="https://iptvx.one/EPG" 
 
 #EXTINF:0 group-title="National" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazaqstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
@@ -18,7 +18,7 @@ https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
 #EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/jj.png",Jibek Joly
 https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
 
-#EXTINF:0 group-title="National" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/silkway.png",Silk Way
+#EXTINF:0 group-title="National" tvg-id="silkway" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/silkway.png",Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="abaitv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/abai.png",Abai TV
@@ -57,7 +57,7 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv2/qazsporttv2/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/qazsport3.png",QazSport 3
 https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/sportplus.png",Sport Plus Qazaqstan
+#EXTINF:0 group-title="Sport" tvg-id="sport-plus-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/sportplus.png",Sport Plus Qazaqstan
 https://streams.qazcdn.net/live2/1kQsACxNuz/playlist.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/insport.png",InSport
@@ -107,6 +107,9 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="semei" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/semei.png",Semei
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:0 group-title="Regions" tvg-id="alautv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/alau.png",Alau TV
+https://playlist.nuum.ru/abr/111003/tracks-v4a1/mono.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="rika" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/rika.png",Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
