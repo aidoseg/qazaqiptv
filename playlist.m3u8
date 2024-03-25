@@ -71,6 +71,9 @@ https://streams.qazcdn.net/live2/cHh5P7hZFJ/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="inhockey-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/inhockey.png",InHockey
 https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
 
+#EXTINF:0 group-title="Sport" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/start.png",Start Turan
+https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
+
 #EXTINF:0 group-title="Regions" tvg-id="altai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/altai.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 
