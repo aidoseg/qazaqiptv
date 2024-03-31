@@ -24,9 +24,6 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:0 group-title="National" tvg-id="abaitv" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/abai.png",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 
-#EXTINF:0 group-title="National" tvg-id="pervy-kanal-eurasia-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/1.png",Первый канал Евразия
-https://stream.qazcdn.net/1tvkz/1tvkz/playlist.m3u8
-
 https://stream.qazcdn.net/1tvkz/1tvkz/playlist.m3u8?ds=1tvkz&ss=FQyUlhLg9O5r8NK2AdNbwenaKQpdRTFmX09p0slH
 
 #EXTINF:0 group-title="National" tvg-id="ktk-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/ktk.png",КТК
@@ -62,16 +59,13 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="sport-plus-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/sportplus.png",Sport Plus Qazaqstan
 https://streams.qazcdn.net/live2/1kQsACxNuz/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="sport-plus-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/sportplus.png",Sport Plus Qazaqstan 2
-https://streams.qazcdn.net/live2/bpVAZyeoxG/playlist.m3u8
-
 #EXTINF:0 group-title="Sport" tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/insport.png",InSport
 https://streams.qazcdn.net/live2/cHh5P7hZFJ/playlist.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-id="inhockey-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/inhockey.png",InHockey
 https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/start.png",Start Turan
+#EXTINF:0 group-title="Sport" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/start-turan.png",Start Turan
 https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="altai" tvg-logo="https://aidoseg.github.io/qazaqiptv/icons/altai.png",Altai
