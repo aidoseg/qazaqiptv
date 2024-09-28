@@ -13,7 +13,7 @@ https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="el-arna" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/el-arna.png",El Arna
-https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
+https://elarna-live.cdnvideo.ru/elarna-srt/elarna-srt/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
 https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
