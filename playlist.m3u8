@@ -43,6 +43,9 @@ https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
 #EXTINF:0 group-title="National" tvg-id="balapan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 
+#EXTINF:0 group-title="National" tvg-id="balapan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan International
+https://qazaqstantv-stream.qazcdn.com/international/balapan/playlist.m3u8
+
 #EXTINF:0 group-title="Sport" tvg-id="kazsport" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazsport.png",QazSport
 https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
