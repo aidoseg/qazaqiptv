@@ -55,6 +55,37 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="sport-plus-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/sport-plus-kz.png",Sport Plus Qazaqstan
 https://stream.qazcdn.net/yq3zvob/1kQsACxNuz/playlist.m3u8
 
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Ulttyq Oner
+https://stream.qaztv.kz/live/stream6/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Retro
+https://stream.qaztv.kz/live/stream7/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Aitys
+https://stream.qaztv.kz/live/stream8/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Teatr
+https://stream.qaztv.kz/live/stream10/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Serials
+https://stream.qaztv.kz/live/stream1/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Derekti Film
+https://stream.qaztv.kz/live/stream5/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Mult
+https://stream.qaztv.kz/live/stream4/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Music
+https://stream.qaztv.kz/live/stream3/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Azil & Show
+https://stream.qaztv.kz/live/stream2/index.m3u8
+
+#EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
+https://stream.qaztv.kz/live/stream9/index.m3u8x 
+
 #EXTINF:0 group-title="Regions" tvg-id="altai-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
 
