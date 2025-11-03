@@ -12,7 +12,7 @@ https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 #EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 
-#EXTINF:0 group-title="Qazaqstan" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
+#EXTINF:0 group-title="National" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
 #EXTVLCOPT:http-referrer=https://jjtv-player.qazcdn.com/
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 
