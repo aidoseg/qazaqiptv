@@ -12,12 +12,9 @@ https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
 #EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 
-#EXTINF:0 group-title="National" tvg-id="el-arna" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/el-arna.png",El Arna
-https://elarna-live.cdnvideo.ru/elarna-srt/elarna-srt/playlist.m3u8
-
 #EXTINF:0 group-title="Qazaqstan" tvg-id="kazakh-tv" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakh-tv.png",Jibek Joly
 #EXTVLCOPT:http-referrer=https://jjtv-player.qazcdn.com/
-https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="silkway" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/silkway.png",Silk Way
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
@@ -32,19 +29,16 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 https://stream.tv7.kz/hls/stream.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="31-kanal-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал
-https://stream.qazcdn.net/31kz/31kz/playlist.m3u8
+https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/almaty.png",Almaty TV
-https://streams.qazcdn.net/live2/gyGP1ZhSAq/playlist.m3u8
-
-#EXTINF:0 group-title="National" tvg-id="atameken-business" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atameken-business.png",Atameken Business Channel
-https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
+https://stream.qazcdn.net/kf5mevv/gyGP1ZhSAq/index.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="novoe-televidenie" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/novoe-televidenie.png",Новое телевидение 
 https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="muzzone" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/muzzone.png",MuzZone
-https://streams.qazcdn.net/muzzone/muzzone/playlist_dvr.m3u8
+https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="balapan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/balapan.png",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
@@ -60,15 +54,6 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv3/qazsporttv3/playlist.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-id="sport-plus-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/sport-plus-kz.png",Sport Plus Qazaqstan
 https://stream.qazcdn.net/yq3zvob/1kQsACxNuz/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-id="insport-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/insport-kz.png",InSport
-https://streams.qazcdn.net/live2/cHh5P7hZFJ/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-id="inhockey-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/inhockey-kz.png",InHockey
-https://streams.qazcdn.net/live2/UDeOPAomGH/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-id="start-turan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/start-turan.png",Start Turan
-https://streams.qazcdn.net/live2/bQS3PALvoU/playlist.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="altai-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
