@@ -87,7 +87,7 @@ https://stream.qaztv.kz/live/stream3/index.m3u8
 https://stream.qaztv.kz/live/stream2/index.m3u8
 
 #EXTINF:0 group-title="Qazaqstan Web" tvg-id="no_epg" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan Sport
-https://stream.qaztv.kz/live/stream9/index.m3u8x 
+https://stream.qaztv.kz/live/stream9/index.m3u8
 
 #EXTINF:0 group-title="Regions" tvg-id="altai-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png",Altai
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
